@@ -1,0 +1,26 @@
+gp_records:
+  base_path: "../gp_records"
+  caches:
+    train_fitness: "../gp_records/caches/func{function_id}/train_fitness_func{function_id}_exp{experiment_id}.json"
+    test_fitness: "../gp_records/caches/func{function_id}/test_fitness_func{function_id}_exp{experiment_id}.json"
+  results:
+    holdout: "../gp_records/results/func{function_id}/holdout_func{function_id}_exp{experiment_id}.jsonl"
+  records:
+    first_generation: "../gp_records/records/func{function_id}/first_generation_func{function_id}_exp{experiment_id}.json"
+  timelogs:
+    experiment_time_log: "../gp_records/timelogs/func{function_id}/experiment_time_log_func{function_id}.json"
+
+
+
+datasets:
+  train: "../datasets/fitness_cases{function_id}.csv"
+  test: "../datasets/hold_out{function_id}.csv"
+
+
+gp:
+  n_generations: 30
+  population_size: 500
+
+experiment:
+  function_id: 4
+  num_experiments: 30
