@@ -4,19 +4,21 @@ import yaml
 
 from utils.readAndwrite import ensure_directory_exists, write_json
 
-# **🔹 基础路径**
-BASE_PATH = "../gp_records"
-
-# **🔹 文件路径格式**
-PATH_TEMPLATES = {
-    "train_fitness_cache": f"{BASE_PATH}/caches/func{{function_id}}/train_fitness_func{{function_id}}_exp{{experiment_id}}.json",
-    "test_fitness_cache": f"{BASE_PATH}/caches/func{{function_id}}/test_fitness_func{{function_id}}_exp{{experiment_id}}.json",
-    "results": f"{BASE_PATH}/results/func{{function_id}}/holdout_func{{function_id}}_exp{{experiment_id}}.jsonl",
-    "first_generation_cache": f"{BASE_PATH}/records/func{{function_id}}/first_generation_func{{function_id}}_exp{{experiment_id}}.json",
-    "experiment_time_log": f"{BASE_PATH}/timelogs/func{{function_id}}/experiment_time_log_func{{function_id}}.json",
-    "train_data": "../datasets/fitness_cases{function_id}.csv",
-    "test_data": "../datasets/hold_out{function_id}.csv",
-}
+# # **🔹 基础路径**
+# BASE_PATH = "../gp_records"
+# LLM_PATH = "qwen"
+#
+# # **🔹 文件路径格式**
+# PATH_TEMPLATES = {
+#     "train_fitness_cache": f"{BASE_PATH}/caches/func{{function_id}}/train_fitness_func{{function_id}}_exp{{experiment_id}}.json",
+#     "test_fitness_cache": f"{BASE_PATH}/caches/func{{function_id}}/test_fitness_func{{function_id}}_exp{{experiment_id}}.json",
+#     "results": f"{BASE_PATH}/results/func{{function_id}}/holdout_func{{function_id}}_exp{{experiment_id}}.jsonl",
+#     "first_generation_cache": f"{BASE_PATH}/records/func{{function_id}}/first_generation_func{{function_id}}_exp{{experiment_id}}.json",
+#     "experiment_time_log": f"{BASE_PATH}/timelogs/func{{function_id}}/experiment_time_log_func{{function_id}}.json",
+#     "init_expressions": f"../datasets/{LLM_PATH}_expressions.jsonl",
+#     "train_data": "../datasets/fitness_cases{function_id}.csv",
+#     "test_data": "../datasets/hold_out{function_id}.csv",
+# }
 
 def load_config(config_path):
     """ 加载 YAML 配置文件 """
@@ -32,12 +34,25 @@ def load_config(config_path):
         raise RuntimeError(f"❌ 加载配置文件时发生未知错误: {e}")
 
 
-def generate_file_paths(function_id, experiment_id):
+def generate_file_paths(function_id, experiment_id, base_path, llm_path):
     """ 生成 GP 相关文件路径，并确保路径存在 """
+    path_templates = {
+        "train_fitness_cache": f"{base_path}/caches/func{{function_id}}/train_fitness_func{{function_id}}_exp{{experiment_id}}.json",
+        "test_fitness_cache": f"{base_path}/caches/func{{function_id}}/test_fitness_func{{function_id}}_exp{{experiment_id}}.json",
+        "results": f"{base_path}/results/func{{function_id}}/holdout_func{{function_id}}_exp{{experiment_id}}.jsonl",
+        "first_generation_cache": f"{base_path}/records/func{{function_id}}/first_generation_func{{function_id}}_exp{{experiment_id}}.jsonl",
+        "experiment_time_log": f"{base_path}/timelogs/func{{function_id}}/experiment_time_log_func{{function_id}}.json",
+        "init_expressions": f"../datasets/{llm_path}_expressions.jsonl",
+        "train_data": "../datasets/fitness_cases{function_id}.csv",
+        "test_data": "../datasets/hold_out{function_id}.csv",
+    }
+
+    if llm_path:
+        path_templates["inheritance_expressions"] = f"../data/{llm_path}_first_generation_func{{function_id}}_exp{{experiment_id}}.jsonl"
 
     # **🔹 格式化所有路径**
     paths = {key: value.format(function_id=function_id, experiment_id=experiment_id) for key, value in
-             PATH_TEMPLATES.items()}
+             path_templates.items()}
 
     # **🔹 确保路径存在**
     for path in paths.values():

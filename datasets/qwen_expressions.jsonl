@@ -1,0 +1,2000 @@
+{"expression": "sin(sqrt(x1 * 0.17) * x2)"}
+{"expression": "sin(x1) + square(0.49 * x2)"}
+{"expression": "cos(x1) + sin(0.4) + x2"}
+{"expression": "sin(x1) + 0.09"}
+{"expression": "square(x1) / (x2 + 0.74)"}
+{"expression": "sqrt(x1) - square(0.12) - x2"}
+{"expression": "cos(x1 / sqrt(0.29 + x2))"}
+{"expression": "sin(square(x1) - x2 + 0.26) - 1"}
+{"expression": "sin(x1) * sqrt(0.11) * x2"}
+{"expression": "cos(x1) + (0.96 / x2)"}
+{"expression": "sin(x1) / (cos(x2) - 0.63)"}
+{"expression": "(x1 + (x2 - 0.74))"}
+{"expression": "sqrt(x1) + square(0.16) / (x2 + 1)"}
+{"expression": "square(x1) / (x2 + 0.34)"}
+{"expression": "((x1 + x2) / (1 - 0.31))"}
+{"expression": "sqrt(x1) + x2 - 0.45"}
+{"expression": "((x1 + sqrt(x2)) * (1 - 0.5))"}
+{"expression": "sqrt(x1 + square(0.69)) + x2"}
+{"expression": "0"}
+{"expression": "sin(x1) - 0.32"}
+{"expression": "cos(x1) * (x2 - 0.99) + 1"}
+{"expression": "square(x1) / (x2 + 0.07)"}
+{"expression": "sin(x1) + 0.51"}
+{"expression": "cos(-1 - sin(x1)) - square(0.72 * x2)"}
+{"expression": "sqrt(x1 + 0.96) + x2"}
+{"expression": "square(x1) - 0.14 * x2"}
+{"expression": "sqrt(square(x1) + 0.92) + x2"}
+{"expression": "sqrt((x1 * (x2 / 0.29)) + square(-1))"}
+{"expression": "sin(sqrt(x1 * square(0.43)))"}
+{"expression": "cos(x1) / (square(x2) + sin(0.28) * -1)"}
+{"expression": "sqrt(x1) - (x2 / 0.67)"}
+{"expression": "sin(x1 + x2) - 0.15"}
+{"expression": "cos(x1) / (sin(square(x2)) + 0.32)"}
+{"expression": "sqrt(x1) * (x2 + 0.12) + square(-1)"}
+{"expression": "sqrt(x1) - 0.49"}
+{"expression": "sin(x1) * (x2 - 0.35) / -1"}
+{"expression": "cos(x1) / square(0.29 * x2)"}
+{"expression": "sqrt(-1 - cos(x1))"}
+{"expression": "sqrt(x1) - (x2 * 0.24)"}
+{"expression": "cos(x1 / (x2 + 0.4))"}
+{"expression": "sin(x1) - 0.65"}
+{"expression": "sin(x1) * square(0.14) + x2"}
+{"expression": "sqrt(cos(x1) * (x2 + 0.65)) + 1"}
+{"expression": "cos(x1) + square(0.72) / x2"}
+{"expression": "sin(-sqrt(x1) + 0.11) - x2"}
+{"expression": "cos(x1) + 0.08"}
+{"expression": "sqrt(x1) / (x2 + 0.13)"}
+{"expression": "((x1 * square(x2)) / (1 - 0.59))"}
+{"expression": "((x1 + square(x2)) * (0.36 - x1))"}
+{"expression": "cos(x1) + 0.47"}
+{"expression": "cos(x1) + sin(x2) / 1.0"}
+{"expression": "cos(x1) * square(x2) + 0.55"}
+{"expression": "cos(-(sqrt(x1) + sin(0.49)))"}
+{"expression": "sin(x1) - (x2 + 1) / 0.19"}
+{"expression": "sqrt(cos(x1) - x2) + 1"}
+{"expression": "cos(x1) - (x2 + 0.13)"}
+{"expression": "((x1 * square(x2)) / 0.21)"}
+{"expression": "cos(x1) * square(0.31 / x2) / -1"}
+{"expression": "sin(sqrt(x1 * square(0.01)))"}
+{"expression": "cos(x1) / (square(sin(x2)) + 0.17)"}
+{"expression": "cos(x1 * sqrt(0.92)) * -1"}
+{"expression": "((x1 + x2) * square(0.51)) + 1"}
+{"expression": "sin(x1) * square(0.99) * x2"}
+{"expression": "sin(x1 * sqrt(0.59 + x2) * -1)"}
+{"expression": "cos(x1 + (x2 * -1))"}
+{"expression": "sqrt(x1) + square(x2) - 0.74"}
+{"expression": "cos(sqrt(x1) - 0.24) - x2"}
+{"expression": "sqrt(square(x1) - (x2 / 0.65))"}
+{"expression": "sqrt(-1 * sin(x1)) - square(0.98 + x2)"}
+{"expression": "cos(x1) * sin(0.77) + x2"}
+{"expression": "sin(x1) - 0.8 + x2"}
+{"expression": "sin(x1) + square(x2) - 0.26"}
+{"expression": "cos(x1) / (x2 + 0.41)"}
+{"expression": "sqrt(x1 * 0.6) * x2"}
+{"expression": "cos(x1) + 0.18"}
+{"expression": "sin(x1 * 0.29 + x2)"}
+{"expression": "cos(x1) - sin(x2) / 0.53"}
+{"expression": "sin((x1 / square(0.94)) + (x2 / -1))"}
+{"expression": "square(x1) - sqrt(0.21 * x2) + 1"}
+{"expression": "((x1 * 0.02) + (x2 + -1))"}
+{"expression": "0"}
+{"expression": "((x1 * x2) * square(0.2))"}
+{"expression": "sin(x1) * (x2 + -1) - 0.71"}
+{"expression": "square(x1) / (x2 + 0.22)"}
+{"expression": "sin(x1) - 0.94"}
+{"expression": "cos(x1) - sqrt(0.15 / x2)"}
+{"expression": "square(x1) + 0.87"}
+{"expression": "cos(x1) - sin(0.68 * x2)"}
+{"expression": "square(x1) / (x2 + 1)"}
+{"expression": "sin(x1 * 0.69) * x2"}
+{"expression": "cos(-1 - sqrt(0.13 * x1))"}
+{"expression": "sin(x1 + 0.79) + x2"}
+{"expression": "cos(x1) + (x2 / -1) - 0.56"}
+{"expression": "sqrt(x1 * (x2 - 0.31)) / -1"}
+{"expression": "((x1 * 0.19) / (x2 + -1))"}
+{"expression": "sin(x1) * square(x2) - 0.58"}
+{"expression": "cos(x1) + sqrt(-1 - x2)"}
+{"expression": "sqrt(x1) + cos(x2 / 0.11)"}
+{"expression": "square(x1) * (x2 - 0.66)"}
+{"expression": "((x1 * 0.37) + (x2 - 1))"}
+{"expression": "sqrt(x1 * 0.95) * x2"}
+{"expression": "cos(x1 * 0.11) * x2"}
+{"expression": "cos(x1) * (x2 / square(0.07))"}
+{"expression": "sin(x1 * 0.26)"}
+{"expression": "sin(x1) + x2 - 0.32"}
+{"expression": "sqrt(x1 / (x2 + 0.51))"}
+{"expression": "sin(x1 + x2) - 0.15"}
+{"expression": "cos(x1) + sin(x2) / 0.9"}
+{"expression": "sin(sqrt(x1 / 0.65) / x2)"}
+{"expression": "((x1 * 0.51) / x2)"}
+{"expression": "sin(x1) + square(0.97 * x2) + 1"}
+{"expression": "sqrt(x1) - (x2 * 0.58)"}
+{"expression": "cos(x1) - square(0.12)"}
+{"expression": "sin(x1) - sqrt(cos(x2) + 0.63)"}
+{"expression": "square(x1) - 0.73"}
+{"expression": "square(x1) - 0.08 * x2"}
+{"expression": "sin(x1) * square(0.77) * x2"}
+{"expression": "sqrt(sin(x1 * x2) + 0.39)"}
+{"expression": "sqrt(x1 / (x2 + 1.0))"}
+{"expression": "cos(x1) / (square(sin(x2)) + 0.74)"}
+{"expression": "cos(x1) - (0.61 * x2)"}
+{"expression": "sin(x1) * (x2 + square(0.55)) + -1"}
+{"expression": "sqrt(x1) + square(0.39) / (x2 + -1)"}
+{"expression": "cos(x1 * 0.54) * x2"}
+{"expression": "cos(x1) + square(0.66) / x2"}
+{"expression": "cos(x1) - square(0.57)"}
+{"expression": "sin(square(x1) + cos(0.27 * x2))"}
+{"expression": "((x1 + x2) / (square(0.71) * -1))"}
+{"expression": "((x1 - 0.53) / x2)"}
+{"expression": "sin(x1 * 0.42) * x2"}
+{"expression": "sqrt(x1 + (x2 / square(0.09)))"}
+{"expression": "cos(x1) + sin(0.81 * x2) + 1"}
+{"expression": "((x1 + x2) * 0.35)"}
+{"expression": "sqrt((x1 + x2) - square(0.83))"}
+{"expression": "((x1 * x2) + (1 - 0.45))"}
+{"expression": "cos(x1) + sin(0.75 * x2) + 1"}
+{"expression": "cos(x1) + sin(0.36 * x2) + 1"}
+{"expression": "square(x1 * 0.35)"}
+{"expression": "((x1 + x2) * (0.34 / -1))"}
+{"expression": "cos(x1) - (x2 * 0.56)"}
+{"expression": "((x1 * -1) / (x2 - 0.66))"}
+{"expression": "sin(x1 + sqrt(-1 - x2))"}
+{"expression": "cos(x1) - sqrt(square(0.93) - x2)"}
+{"expression": "((x1 + square(x2)) * 0.63)"}
+{"expression": "cos(sqrt(x1 + square(0.64))) + sin(x2)"}
+{"expression": "sqrt(x1) * square(-1) - (x2 * 0.4)"}
+{"expression": "sqrt((x1 * (x2 / 0.07)) + square(-1))"}
+{"expression": "sin(x1) * cos(square(x2)) * 0.58"}
+{"expression": "sin(sqrt(x1 * square(0.38)))"}
+{"expression": "sqrt(x1 + 0.69) + x2"}
+{"expression": "cos(x1) + sqrt(square(0.16) + x2)"}
+{"expression": "cos(x1) * (x2 - 0.92) + 1"}
+{"expression": "sin(x1) / (x2 - 0.9)"}
+{"expression": "sqrt(x1) - 0.63"}
+{"expression": "sin(x1) + square(x2) - 0.51"}
+{"expression": "((x1 * square(x2)) / 0.62)"}
+{"expression": "cos(x1 + (x2 * (0.22 / -1)))"}
+{"expression": "sin(x1) - (x2 + 0.55)"}
+{"expression": "((x1 + square(x2)) / (1 - (0.13 * -1)))"}
+{"expression": "sqrt(x1) - (x2 - 0.82)"}
+{"expression": "((x1 * square(x2)) / 0.6)"}
+{"expression": "sin(x1) * square(0.99) * x2"}
+{"expression": "square(x1 * 0.93)"}
+{"expression": "cos(x1) + (0.48 / x2)"}
+{"expression": "cos(sqrt(x1) / square(x2)) * 0.5"}
+{"expression": "cos(x1) - square(0.2) - x2"}
+{"expression": "sin(x1) + cos(x2) + 0.56"}
+{"expression": "square(x1 * 0.94)"}
+{"expression": "cos(x1) * sqrt(x2 / 0.7)"}
+{"expression": "((x1 + -1) - (0.02 + x2))"}
+{"expression": "cos(x1) - 1"}
+{"expression": "square(x1 * 0.31)"}
+{"expression": "sin(x1) + square(0.96 * x2)"}
+{"expression": "cos(x1) / square(0.85)"}
+{"expression": "sin(sqrt(x1 / 0.23)) / x2"}
+{"expression": "sin(x1 + x2) - 0.12"}
+{"expression": "sin(x1) / square(0.61 * x2)"}
+{"expression": "sin(x1) + (x2 / 0.49)"}
+{"expression": "sin(-x1 + sqrt(0.94))"}
+{"expression": "sqrt(x1 * (x2 / 0.06)) + -1"}
+{"expression": "sin(x1) + x2"}
+{"expression": "cos(x1 * 0.58) * x2"}
+{"expression": "sqrt(x1) + 0.03"}
+{"expression": "sin(x1) - 0.42"}
+{"expression": "0"}
+{"expression": "sin((x1 / square(0.2)) + (x2 / -1))"}
+{"expression": "cos(square(x1) * sin(0.82 + x2)) * -1"}
+{"expression": "cos(x1) * square(0.21 + x2) + 1"}
+{"expression": "sin(x1 * 0.57) * x2"}
+{"expression": "cos(x1) - (x2 * 0.58)"}
+{"expression": "cos(x1) + sin(0.1) + x2"}
+{"expression": "0"}
+{"expression": "sin(x1) * (x2 + 0.66) / -1"}
+{"expression": "sqrt(x1 * (x2 / 0.43))"}
+{"expression": "sin(x1) - sqrt(0.76 * x2)"}
+{"expression": "((x1 + x2) * (square(0.4) / -1))"}
+{"expression": "sin(x1 * 0.46) * x2"}
+{"expression": "cos(x1) * sqrt(sin(x2) + 0.46)"}
+{"expression": "square(x1) - cos(0.5 * x2)"}
+{"expression": "((x1 / x2) - 0.38)"}
+{"expression": "sqrt(x1) * (x2 + 0.4)"}
+{"expression": "sqrt(cos(x1) * 0.2)"}
+{"expression": "cos(x1) + square(x2) * 0.11"}
+{"expression": "((x1 * 0.43) + x2)"}
+{"expression": "sin(x1) * cos(x2) - 0.51"}
+{"expression": "cos(x1) + square(x2) / 0.64"}
+{"expression": "((x1 * 0.78) / x2)"}
+{"expression": "sin(x1) * cos(0.21) + x2"}
+{"expression": "sin(x1) * -1 - 0.22"}
+{"expression": "((x1 + x2) / (0.42 * -1))"}
+{"expression": "sin(x1) + cos(0.84 * x2) + 1"}
+{"expression": "((x1 + x2) / (1 * -1)) - 0.98"}
+{"expression": "cos(sqrt(x1 * square(0.12)))"}
+{"expression": "cos(x1 * (x2 / 0.73))"}
+{"expression": "sin(x1) - sqrt(0.38 * x2) - 1"}
+{"expression": "sin(x1) + (x2 / -1) - 0.5"}
+{"expression": "cos(x1) - (0.47 + x2) / 1"}
+{"expression": "0"}
+{"expression": "cos((x1 + (x2 * -1))) + (sqrt(0.76) * 1)"}
+{"expression": "sqrt((square(x1) / (x2 * 0.04)) -1)"}
+{"expression": "sqrt(x1) - 0.89"}
+{"expression": "sqrt(x1 + (x2 / 0.75))"}
+{"expression": "sqrt((x1 * 0.87) / x2)"}
+{"expression": "cos(x1) / (x2 + 1) - 0.01"}
+{"expression": "cos(sqrt(x1 / (square(x2) + 0.98)))"}
+{"expression": "sin(x1) + cos(0.99) + x2"}
+{"expression": "sin(x1) + cos(0.73 * x2)"}
+{"expression": "cos(x1) + sin(x2) - 0.32"}
+{"expression": "sin(x1 * 0.71) * x2"}
+{"expression": "cos(x1) * square(0.91) * x2"}
+{"expression": "sin(x1) - 0.56"}
+{"expression": "cos(x1) - square(0.35) - x2"}
+{"expression": "square(x1) / (x2 * 0.65)"}
+{"expression": "((x1 + -1) - (0.78 + x2))"}
+{"expression": "sqrt(x1 + 0.85) + x2"}
+{"expression": "cos(x1) * square(0.59) * x2"}
+{"expression": "cos(x1) + sin(square(0.67 * x2)) - 1"}
+{"expression": "cos(x1) * sin(x2) - 0.52"}
+{"expression": "((x1 * square(x2)) / 0.97)"}
+{"expression": "cos(sqrt(x1 / 0.41)) / (x2 + 1)"}
+{"expression": "sin(x1) / (cos(square(x2)) + 0.96)"}
+{"expression": "cos(x1) + square(0.92 * x2) + sqrt(-1 + x1)"}
+{"expression": "sin(x1) * sqrt(0.32) * x2"}
+{"expression": "((x1 * -1) - (x2 * 0.34))"}
+{"expression": "sqrt(x1 * 0.11) * x2"}
+{"expression": "sqrt(x1) - (x2 / 0.95)"}
+{"expression": "sin(x1 + 0.6) + x2"}
+{"expression": "sin(sqrt(x1 + square(0.93))) + x2"}
+{"expression": "square(x1) - 0.76"}
+{"expression": "sin(x1) / (x2 - 0.83)"}
+{"expression": "cos(x1) / (x2 - 0.95)"}
+{"expression": "sin(x1) + sqrt(0.05) + x2"}
+{"expression": "0"}
+{"expression": "sin(x1 / 0.32) / x2"}
+{"expression": "cos(x1) * (x2 - 0.65) / -1"}
+{"expression": "sin(x1) + square(0.06) + x2"}
+{"expression": "cos(x1) * (x2 + 0.84) - 1"}
+{"expression": "sin(x1) * square(0.21) / (x2 + -1)"}
+{"expression": "((x1 * x2) + square(0.51))"}
+{"expression": "sqrt((x1 * x2) + (1 - 0.25))"}
+{"expression": "((x1 * square(x2)) / 0.49)"}
+{"expression": "sin(x1) - square(0.53) - x2"}
+{"expression": "square(x1) / (x2 + 1)"}
+{"expression": "sin(x1) + (0.92 / x2)"}
+{"expression": "cos(x1 / (x2 + 0.05))"}
+{"expression": "((x1 * -1) - (0.01 * x2))"}
+{"expression": "sqrt(x1 * 0.33) * x2"}
+{"expression": "sin(x1) - cos(x2 / 0.95) / -1"}
+{"expression": "cos(x1) + square(0.1 * x2)"}
+{"expression": "sin(x1 / (x2 + 0.13))"}
+{"expression": "sqrt(x1 * -1)"}
+{"expression": "sqrt(x1 * 0.56)"}
+{"expression": "((x1 + x2) / square(0.38)) + 1"}
+{"expression": "((x1 - 0.72) / x2)"}
+{"expression": "square(x1 / (x2 + 1))"}
+{"expression": "cos(x1) * (x2 / square(0.92))"}
+{"expression": "cos(sqrt(x1 * square(0.34)))"}
+{"expression": "sin(x1) + 0.3"}
+{"expression": "sqrt(x1) - 0.29"}
+{"expression": "sin(x1 * (x2 / 0.27))"}
+{"expression": "((x1 + square(x2)) + (square(-1) + 0.54))"}
+{"expression": "cos(x1) / sqrt(0.96 + x2)"}
+{"expression": "sin(x1) + square(x2) / 0.26"}
+{"expression": "cos(x1) + square(0.82 * x2) + 1"}
+{"expression": "((x1 * 0.37) / (x2 * -1))"}
+{"expression": "sqrt(1 * sin(x1)) * 0.35"}
+{"expression": "cos(x1 + 0.86) + x2"}
+{"expression": "cos(x1) / sqrt(0.23 + x2)"}
+{"expression": "cos(x1) + square(x2) * 0.84"}
+{"expression": "sin(sqrt(x1 + cos(x2)))"}
+{"expression": "sin(x1) + sqrt(0.97 * x2) + -1"}
+{"expression": "((x1 + x2) * 0.12)"}
+{"expression": "((x1 * square(x2)) + (0.97 - 1))"}
+{"expression": "((x1 + -1) - (0.15 + x2))"}
+{"expression": "0"}
+{"expression": "sin((x1 + (x2 * -1))) - (1 * 0.53)"}
+{"expression": "((x1 + square(x2)) / 0.46) + 1"}
+{"expression": "sqrt(cos(x1) * (x2 / 0.68))"}
+{"expression": "sin(x1) + sqrt(x2 / 0.21) + (-1 * 1)"}
+{"expression": "cos(x1) / sin(0.71 * x2)"}
+{"expression": "cos(x1) + sin(x2) - 0.78"}
+{"expression": "((x1 * x2) + (1 / -1)) - 0.27"}
+{"expression": "cos(sqrt(x1) / (x2 + 1))"}
+{"expression": "cos(x1) - (0.96 / x2)"}
+{"expression": "cos(x1) / sqrt(0.35 + x2)"}
+{"expression": "((x1 * x2) - 0.59)"}
+{"expression": "cos(x1) + sin(x2) * 0.08 + 1"}
+{"expression": "((x1 * -1) - (x2 * 0.05))"}
+{"expression": "sqrt(x1 * 0.2) * x2"}
+{"expression": "sin(x1 / square(0.32)) / x2"}
+{"expression": "cos(x1 / 0.34) / x2"}
+{"expression": "0"}
+{"expression": "sin(x1) + sqrt(0.89 * x2)"}
+{"expression": "0"}
+{"expression": "((x1 + 0.78) / x2)"}
+{"expression": "square(x1) / (x2 + 1)"}
+{"expression": "((x1 * 0.92) - x2)"}
+{"expression": "((x1 + square(x2)) - (1 / 0.72))"}
+{"expression": "sin(x1) - sqrt(0.96 * x2) - 1"}
+{"expression": "sin(x1) - square(0.18 * x2) + 1"}
+{"expression": "sqrt(x1) + 0.47"}
+{"expression": "((x1 / x2) - 0.98)"}
+{"expression": "cos(sqrt(x1 * sin(square(0.91) + x2)))"}
+{"expression": "cos(x1) - (x2 + 0.46)"}
+{"expression": "sin(x1) / (x2 - 0.87)"}
+{"expression": "sin(x1) - square(0.62 * x2) + cos(-1)"}
+{"expression": "((x1 / x2) - square(0.62))"}
+{"expression": "cos(-(sin(x1) + sqrt(0.79)))"}
+{"expression": "square(x1) / (x2 - 0.65)"}
+{"expression": "cos(x1) * 0.04"}
+{"expression": "((x1 + x2) * (1 - 0.23))"}
+{"expression": "((x1 / x2) - 0.26)"}
+{"expression": "((x1 + square(x2)) - 0.48)"}
+{"expression": "0"}
+{"expression": "sin(sqrt(x1 * 0.69) * x2)"}
+{"expression": "sin(x1) - square(0.36 * x2) + 1"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.48))"}
+{"expression": "sin(x1) + cos(0.81 * x2)"}
+{"expression": "cos(x1) - sqrt(0.57 * x2) - 1"}
+{"expression": "cos(x1) + x2 - 0.12"}
+{"expression": "((x1 * 0.05) / (x2 + -1))"}
+{"expression": "cos(x1) + x2 / 0.38"}
+{"expression": "cos(x1) + x2 - 0.31"}
+{"expression": "cos(x1) - sin(0.22 * x2)"}
+{"expression": "sin(x1) - sqrt(0.01) - x2"}
+{"expression": "square(x1) - (x2 + 0.71)"}
+{"expression": "sqrt(x1 * 0.86) * x2"}
+{"expression": "cos(x1) / sqrt(0.32 + x2)"}
+{"expression": "square(x1) + 0.85"}
+{"expression": "square(x1) - (x2 + 0.26)"}
+{"expression": "sin(x1) + cos(sqrt(0.29 + x2))"}
+{"expression": "sin(x1) * square(0.45) * x2"}
+{"expression": "sin(x1) + (0.91 / x2)"}
+{"expression": "sqrt(cos(x1) + 0.49) + x2"}
+{"expression": "((x1 * 0.62) + (x2 / -1))"}
+{"expression": "cos(x1) + (x2 * -1) - 0.55"}
+{"expression": "sqrt(x1) / (square(x2) + 0.74)"}
+{"expression": "sin(x1) - sqrt(0.62 / x2)"}
+{"expression": "sqrt(x1 + (x2 * 0.91)) / -1"}
+{"expression": "sin(x1 / 0.65) / x2"}
+{"expression": "sqrt(x1 + 1) + x2"}
+{"expression": "cos(x1 / sqrt(0.43 + x2))"}
+{"expression": "sin(x1 * cos(x2 / 0.07))"}
+{"expression": "sqrt(x1) * cos(x2 - 1) - 0.23"}
+{"expression": "sin(sqrt(x1 * square(0.83)))"}
+{"expression": "((x1 / x2) + square(0.68))"}
+{"expression": "sin(x1) - 0.06 * x2"}
+{"expression": "square(x1 / (x2 + 0.33))"}
+{"expression": "sin(x1) - 0.38"}
+{"expression": "sin(sqrt(x1 * 0.96) * x2)"}
+{"expression": "((x1 + x2) * 0.37)"}
+{"expression": "sin(sqrt(x1 * 0.16) * x2)"}
+{"expression": "sin(-x1 + cos(x2))"}
+{"expression": "sin(x1) - sqrt(0.72 * x2)"}
+{"expression": "cos(x1) + x2 - 0.11"}
+{"expression": "cos(x1) + square(0.53 * x2) + 1"}
+{"expression": "cos(x1) - sin(0.38) - x2"}
+{"expression": "cos(x1) * square(0.26) * x2"}
+{"expression": "cos(x1) / (x2 - 1) - 0.21"}
+{"expression": "((x1 * square(x2)) - (0.14 / -1))"}
+{"expression": "((x1 + x2) / square(0.95))"}
+{"expression": "square(x1) / (x2 - 0.8) - 1"}
+{"expression": "sin(x1 * cos(0.36))"}
+{"expression": "((x1 * -1) + (x2 - 0.15))"}
+{"expression": "((x1 + x2) / (0.98 * -1))"}
+{"expression": "sin(x1) * square(0.2) * x2"}
+{"expression": "sin(x1) / (x2 + 0.72)"}
+{"expression": "cos(x1 * square(0.46)) * x2"}
+{"expression": "sqrt(x1) - (x2 / 0.72)"}
+{"expression": "sin(x1) / (cos(x2) + 0.27) + 1"}
+{"expression": "sin(sqrt(x1) / (x2 + 0.97))"}
+{"expression": "((x1 + square(x2)) - 0.45)"}
+{"expression": "sqrt(x1 / (x2 + 0.63))"}
+{"expression": "cos(x1) / sin(square(x2)) + 0.83"}
+{"expression": "sqrt(x1 * 0.02) * x2"}
+{"expression": "sqrt(x1 * (x2 - 0.38))"}
+{"expression": "sin(x1) + 0.27"}
+{"expression": "0"}
+{"expression": "cos(x1) - 0.38"}
+{"expression": "sin(x1 + 0.28) + x2"}
+{"expression": "cos(x1 / 0.33) / x2"}
+{"expression": "cos(sqrt(x1 + 0.24)) + x2"}
+{"expression": "cos(x1) + sqrt(0.82) + x2"}
+{"expression": "cos(x1) * sqrt(x2 / 0.41)"}
+{"expression": "((x1 * cos(x2)) - (0.46 / 1))"}
+{"expression": "cos(x1 * sqrt(0.92 * x2))"}
+{"expression": "sin(x1) / (x2 + 0.15)"}
+{"expression": "sin(x1 * -1) + x2 - 0.05"}
+{"expression": "sin(x1) * (x2 + -1) - 0.15"}
+{"expression": "((x1 * square(x2)) - 0.11)"}
+{"expression": "sin(sqrt(x1 / square(0.95)))"}
+{"expression": "sin(x1) + cos(square(x2)) + 0.88"}
+{"expression": "sqrt(x1) + (x2 / 0.76)"}
+{"expression": "((x1 + 0.04) * x2)"}
+{"expression": "square(x1) - 0.67"}
+{"expression": "sin(x1) + cos(sqrt(0.18 * x2)) + 1"}
+{"expression": "cos(x1) / square(0.48 * x2)"}
+{"expression": "cos(x1) - 0.15"}
+{"expression": "square(-x1 + cos(0.87))"}
+{"expression": "sin(x1) / cos(0.48 * x2)"}
+{"expression": "sqrt(cos(x1) * 0.13)"}
+{"expression": "sin(-square(x1) + 0.54)"}
+{"expression": "sin(-square(x1) + 0.86)"}
+{"expression": "sqrt(x1 + (x2 / 0.05)) + 1"}
+{"expression": "cos(x1 + x2) * 0.02 + 1"}
+{"expression": "cos(x1) / sqrt(0.89 + (x2 / -1))"}
+{"expression": "sin(sqrt(x1 + square(0.36))) + x2"}
+{"expression": "cos(x1) * square(0.26 * x2)"}
+{"expression": "sin((x1 + square(x2)) / (0.56 + 1))"}
+{"expression": "sqrt(x1 * 0.66) * x2"}
+{"expression": "sqrt(-1 - cos(x1))"}
+{"expression": "sqrt(x1 * (x2 / 0.46))"}
+{"expression": "sin((x1 / square(0.27)))"}
+{"expression": "sin(x1) - cos(0.24 * x2) - 1"}
+{"expression": "sin(x1) / (x2 - 0.61)"}
+{"expression": "sqrt(cos(x1) + sin(square(x2)) + 0.7)"}
+{"expression": "((x1 + x2) - 1)"}
+{"expression": "sqrt(x1) - square(1.0) + x2"}
+{"expression": "sin(sqrt(x1 * 0.04) + x2)"}
+{"expression": "square(x1) + 0.35"}
+{"expression": "cos(x1) + sin(sqrt(0.54 * x2))"}
+{"expression": "((x1 * -1) + (x2 - 0.07))"}
+{"expression": "sin(x1) - 0.52"}
+{"expression": "cos(x1) + sqrt(0.56 / x2)"}
+{"expression": "sin(x1) * sqrt(0.94 / x2)"}
+{"expression": "sqrt(x1) / (x2 + 0.22)"}
+{"expression": "square(x1) + cos(-1) - x2"}
+{"expression": "sin(x1) * square(0.98) * x2"}
+{"expression": "sin(cos(x1 * sqrt(square(0.94) + x2)))"}
+{"expression": "cos(x1 + square(0.45)) + x2"}
+{"expression": "((x1 + 0.78) - x2)"}
+{"expression": "sin(x1 * (x2 / square(0.4)))"}
+{"expression": "sin(x1 * square(x2 + 0.78) + -1)"}
+{"expression": "cos(x1) * sqrt(0.52 + x2)"}
+{"expression": "0"}
+{"expression": "cos(x1) - square(0.26 * x2) + 1"}
+{"expression": "sqrt(x1) - 0.3"}
+{"expression": "((x1 + square(0.52)) / (x2 + -1))"}
+{"expression": "sqrt(x1) + (x2 - square(0.29))"}
+{"expression": "sqrt(x1) * (x2 + -1) - 0.2"}
+{"expression": "cos(x1) / (square(x2) + 0.02)"}
+{"expression": "sin(x1 * -1)"}
+{"expression": "cos(x1) * square(x2) + 0.46"}
+{"expression": "((x1 * x2) - 0.9)"}
+{"expression": "sin(sqrt(x1 + square(0.17))) + x2"}
+{"expression": "cos(x1) * (x2 + -1) - 0.67"}
+{"expression": "sqrt(x1 * 0.41) * x2"}
+{"expression": "sqrt(cos(x1) + (x2 / 0.83))"}
+{"expression": "cos(x1) / (0.77 + x2)"}
+{"expression": "sqrt(x1) + cos(x2) - 0.53"}
+{"expression": "sin(x1) + (x2 - 0.83) / -1"}
+{"expression": "cos(x1) + x2 * (-1 - 0.52)"}
+{"expression": "sqrt(square(x1) * 0.13) + x2"}
+{"expression": "sin(sqrt(x1) - (x2 / 0.06))"}
+{"expression": "cos(x1) - (0.43 / x2)"}
+{"expression": "sin(x1) - 1"}
+{"expression": "sqrt(square(x1) + 0.71 * square(x2))"}
+{"expression": "square(x1) * 0.37"}
+{"expression": "((x1 + x2) - (1 * square(0.91)))"}
+{"expression": "cos(x1) / (x2 + 0.82)"}
+{"expression": "cos(x1) + (x2 / 0.58)"}
+{"expression": "sin(x1 * cos(0.36))"}
+{"expression": "0"}
+{"expression": "sin(x1) * (x2 / 0.22)"}
+{"expression": "square(x1 * 0.22)"}
+{"expression": "sqrt(x1 + (x2 / 0.43))"}
+{"expression": "sin(x1 * 0.54)"}
+{"expression": "cos(x1) / (square(sin(x2)) + 0.5)"}
+{"expression": "((x1 + 0.31) / x2)"}
+{"expression": "sin(sqrt(x1 * (x2 / 0.97)))"}
+{"expression": "sqrt(x1 * 0.39) * x2"}
+{"expression": "cos(x1) + sqrt(0.97 * x2) + 1"}
+{"expression": "sqrt(x1 + 0.05) + x2"}
+{"expression": "((x1 * 0.05) + (x2 / -1)) - 1"}
+{"expression": "sqrt((x1 * x2) + (1 - 0.66))"}
+{"expression": "((x1 * square(x2)) - (0.19 * -1))"}
+{"expression": "sqrt(x1 * (x2 / square(0.85)))"}
+{"expression": "sqrt((x1 / square(0.02)) / x2)"}
+{"expression": "((x1 + -1) - (0.26 + x2))"}
+{"expression": "((x1 * 0.1) / x2)"}
+{"expression": "sin(x1) + sqrt(0.99 * x2) + 1"}
+{"expression": "sqrt(x1 * 0.23) * x2"}
+{"expression": "sin(x1 * (x2 / 0.87))"}
+{"expression": "((x1 / x2) + 0.51)"}
+{"expression": "cos(x1) / sqrt(0.07 + x2) - 1"}
+{"expression": "((x1 + x2) - 0.8)"}
+{"expression": "sin(x1) * (x2 + -1) - 0.54"}
+{"expression": "sin((x1 - (x2 * 0.44)) / -1)"}
+{"expression": "sin(x1 * -1) - 0.63"}
+{"expression": "sin(x1) - cos(sqrt(0.32 * x2)) + 1"}
+{"expression": "((x1 * 0.74) + x2)"}
+{"expression": "sin(x1) - 0.52"}
+{"expression": "cos(x1) / (x2 + 0.39)"}
+{"expression": "sin(x1) * (x2 + 0.51) + 1"}
+{"expression": "sin(x1) * (x2 + 0.46) + 1"}
+{"expression": "sqrt(x1) * (x2 - square(0.32)) - 1"}
+{"expression": "cos(square(x1) / (x2 * 0.84))"}
+{"expression": "square(x1) - (x2 + 1) * 0.21"}
+{"expression": "0"}
+{"expression": "sin(x1 * (x2 - 0.38)) * square(-1)"}
+{"expression": "sqrt(x1 + (x2 / 0.53))"}
+{"expression": "cos(x1) + sin(0.09) + x2"}
+{"expression": "sin(x1) - sqrt(0.26 * x2)"}
+{"expression": "cos(x1) + sin(x2) * 0.04"}
+{"expression": "cos(x1) - sqrt(0.94 * x2)"}
+{"expression": "sin(x1) - square(0.34) - x2"}
+{"expression": "sqrt(x1) - (x2 * 0.56)"}
+{"expression": "cos(x1) + sqrt(0.71 * x2) + square(-1)"}
+{"expression": "sin(x1) + sqrt(0.56 * x2) + 1"}
+{"expression": "cos(x1) * square(0.69)"}
+{"expression": "((x1 * x2) / 0.85)"}
+{"expression": "((x1 + x2) * square(0.81)) + -1"}
+{"expression": "((x1 + -1) - (0.56 + x2))"}
+{"expression": "sin(-x1+square(0.29))-1"}
+{"expression": "sqrt(square(x1) / (x2 + 0.37)) + -1"}
+{"expression": "((x1 + square(0.7)) + square(x2))"}
+{"expression": "cos(x1) * square(0.92) * x2"}
+{"expression": "sin(x1) * sqrt(x2 / 0.79)"}
+{"expression": "sin(x1) * square(x2) - 0.3"}
+{"expression": "sin(x1) + sqrt(0.65) + x2"}
+{"expression": "sin(x1) * (x2 + 0.68) / -1"}
+{"expression": "((x1 / x2) - 0.07)"}
+{"expression": "sin(x1) + cos(0.2 * x2) + 1"}
+{"expression": "sqrt(x1) / square(0.37 * x2)"}
+{"expression": "sin(x1) + square(x2) / 0.75"}
+{"expression": "cos(x1) * square(0.51 * x2)"}
+{"expression": "cos((x1 + (sqrt(x2) * -1)))"}
+{"expression": "sin(x1 * square(0.03)) * x2"}
+{"expression": "sin(cos(x1 / sqrt(0.03 + x2))) / -1"}
+{"expression": "cos(x1) - (x2 / 0.55)"}
+{"expression": "((x1 - 0.4) / x2) - 1"}
+{"expression": "cos(x1 / 0.9) / x2"}
+{"expression": "square(cos(x1) * sin(0.88))"}
+{"expression": "sin(x1) + square(0.76) + x2"}
+{"expression": "(x1 + (x2 - 0.76))"}
+{"expression": "sin(x1) + 0.47"}
+{"expression": "cos(x1) * square(0.62) * x2"}
+{"expression": "0"}
+{"expression": "((x1 + square(x2)) / (1 - 0.28))"}
+{"expression": "cos(x1) * sin(0.47) + x2"}
+{"expression": "sqrt(square(x1) + (x2 - 0.74))"}
+{"expression": "cos(x1) / (x2 + 0.05)"}
+{"expression": "cos(x1) + square(x2) * 0.9"}
+{"expression": "0"}
+{"expression": "((x1 + x2) / 0.03)"}
+{"expression": "sin(cos(x1 / 0.24) / x2)"}
+{"expression": "cos(sin(x1 / sqrt(0.43))) / x2"}
+{"expression": "sin(x1) / (x2 + 0.9)"}
+{"expression": "sqrt(cos(x1 * square(0.94)))"}
+{"expression": "sin(-x1 + cos(0.74 * x2))"}
+{"expression": "cos(sqrt(x1 / 0.19))"}
+{"expression": "cos(x1) + square(0.76) + x2"}
+{"expression": "sin(x1) / sqrt(0.63 + x2)"}
+{"expression": "cos(x1 + square(0.68)) + x2"}
+{"expression": "sqrt(x1 * 0.33) * x2"}
+{"expression": "cos(x1) * (x2 + 0.98) / -1"}
+{"expression": "sin(cos(x1) / square(0.39))"}
+{"expression": "cos(x1) * (x2 + -1) - 0.52"}
+{"expression": "sqrt(square(x1) + 0.71 * x2) + 1"}
+{"expression": "cos(x1) - square(0.12 * x2)"}
+{"expression": "sqrt(x1) * (x2 + -1) - 0.32"}
+{"expression": "((x1 * 0.48) + x2)"}
+{"expression": "sqrt(x1) + (x2 - 0.42) / 1"}
+{"expression": "sqrt(x1) - (x2 * 0.74)"}
+{"expression": "sqrt(x1 * (x2 - 0.47))"}
+{"expression": "sin(x1) - sqrt(0.36 * x2)"}
+{"expression": "sqrt(x1) * (x2 - 0.77)"}
+{"expression": "sqrt(x1 * 0.29) * x2"}
+{"expression": "square(x1 * 0.27)"}
+{"expression": "sqrt(x1) / (square(x2) + 0.03)"}
+{"expression": "sqrt(x1 * 0.98) * x2"}
+{"expression": "sqrt(x1 + 0.19) + x2"}
+{"expression": "sqrt(x1) * (x2 + 0.59)"}
+{"expression": "((x1 * x2) + (1 / 0.61)) - (-1)"}
+{"expression": "cos(x1 + 0.28) + x2"}
+{"expression": "sin(x1) - square(0.82 * x2)"}
+{"expression": "sqrt(x1) - (x2 * 0.31)"}
+{"expression": "square(x1) / (x2 + 1)"}
+{"expression": "sin(x1 * square(0.7 + x2))"}
+{"expression": "sin(x1) + square(0.63) + x2"}
+{"expression": "sqrt(x1) * (x2 - 0.82)"}
+{"expression": "sqrt(cos(x1 / (square(0.46) + x2)))"}
+{"expression": "cos(x1) * (x2 / 0.56)"}
+{"expression": "0"}
+{"expression": "sqrt(x1 * 0.99) * x2"}
+{"expression": "sin(-(sqrt(x1) + square(0.03)))"}
+{"expression": "sqrt(cos(x1) * square(0.61))"}
+{"expression": "sin(-x1 + sqrt(square(0.15) - x2))"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.34))"}
+{"expression": "sin(x1) * sqrt(x2 + 0.36) + 1"}
+{"expression": "sin(x1) / (cos(x2) + 0.02)"}
+{"expression": "sin(cos(x1 / -1) - 0.48) / x2"}
+{"expression": "((x1 + x2) / 0.8)"}
+{"expression": "0"}
+{"expression": "cos(x1) * 0.88"}
+{"expression": "sqrt(x1) - x2 + 0.13"}
+{"expression": "sin(x1) * square(0.39) * x2"}
+{"expression": "sqrt(x1) + cos(square(0.94) * x2) + 1"}
+{"expression": "((x1 + x2) / 0.52)"}
+{"expression": "cos(sqrt(x1 * sin(x2)))"}
+{"expression": "cos(sqrt(x1 * square(0.64)))"}
+{"expression": "sin(x1 * 0.67) * x2"}
+{"expression": "((x1 * x2) + (0.71 - 1))"}
+{"expression": "sin(x1) / (x2 + 1)"}
+{"expression": "sin(x1 * cos(0.46)) * x2"}
+{"expression": "cos(x1) + square(0.68) + x2"}
+{"expression": "cos(x1) + square(x2) - 0.71"}
+{"expression": "sin(x1 + sqrt(0.23)) + x2"}
+{"expression": "sin(square(x1) / (x2 + 0.21))"}
+{"expression": "sqrt((x1 + (x2 * -1)) - 0.38)"}
+{"expression": "sin(x1 / 0.81) / x2"}
+{"expression": "cos(x1) * (x2 - 0.23) / -1"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "sin(x1) - cos(0.69)"}
+{"expression": "sin(x1 + cos(x2 * 0.08)) + 1"}
+{"expression": "sin(x1) - square(0.77)"}
+{"expression": "sin(x1) + square(cos(0.74 * x2)) - 1"}
+{"expression": "cos(x1) + sin(0.61 * x2) + 1"}
+{"expression": "sqrt(x1 / (x2 + 0.04))"}
+{"expression": "cos(sqrt(x1 + 0.14)) + x2"}
+{"expression": "cos(x1) * sin(square(0.64)) + x2"}
+{"expression": "sqrt(x1) + x2 - 0.08"}
+{"expression": "((x1 * -1) / (x2 - 0.21))"}
+{"expression": "cos(x1) - sin(x2) + 1"}
+{"expression": "sin(x1) + square(x2) - 1"}
+{"expression": "((x1 * square(x2)) / 0.96)"}
+{"expression": "cos(x1) / square(0.2 * x2)"}
+{"expression": "sin(x1) + 0.78"}
+{"expression": "sin((x1 * (x2 + 0.26))) + sqrt(1)"}
+{"expression": "((x1 - 0.63) / x2)"}
+{"expression": "((x1 + x2) * (0.44 - 1))"}
+{"expression": "cos(x1 + (x2 * 0.14))"}
+{"expression": "sin(x1) * (cos(x2) / 0.3) + 1"}
+{"expression": "sqrt(x1 + square(0.49)) + x2"}
+{"expression": "cos(x1) + square(x2) / (1 + 0.08)"}
+{"expression": "sqrt(x1) / (x2 - 0.12)"}
+{"expression": "sin(x1) * cos(0.48) + x2"}
+{"expression": "((x1 + square(0.78)) / x2)"}
+{"expression": "sin(x1) - cos(0.96 * x2)"}
+{"expression": "sin(square(x1) - (x2 + 0.99)) + 1"}
+{"expression": "square(x1) / (x2 + 1)"}
+{"expression": "square(x1) * 0.59"}
+{"expression": "((x1 * x2) / 0.67)"}
+{"expression": "sin(x1) / square(0.86 * x2)"}
+{"expression": "sin(x1 * sqrt(0.65 + x2))"}
+{"expression": "0"}
+{"expression": "cos(x1) * square(0.57) / x2"}
+{"expression": "cos(sqrt(x1 * (x2 + 0.57)))"}
+{"expression": "cos(x1) * square(0.19) / (x2 + 1)"}
+{"expression": "cos(x1) - 0.41"}
+{"expression": "sqrt(x1 + 0.31) + x2"}
+{"expression": "cos(x1) * sqrt(x2) - 0.08"}
+{"expression": "sin(x1) + square(0.32 * x2)"}
+{"expression": "sqrt(x1 * (x2 - 1)) - square(0.29)"}
+{"expression": "sin(x1 * -1) - (x2 * 0.4)"}
+{"expression": "cos(x1) / (x2 + 0.56)"}
+{"expression": "square(x1) - 0.51"}
+{"expression": "cos(x1) + sin(x2) / 0.35"}
+{"expression": "sin(x1) - cos(0.01 * x2) + 1"}
+{"expression": "sqrt(x1 + square(0.45)) + x2"}
+{"expression": "sqrt(x1 + 0.96) + x2"}
+{"expression": "sin(-x1 + cos(x2))"}
+{"expression": "((x1 * 0.84) / (x2 + -1))"}
+{"expression": "cos(x1) + 0.71"}
+{"expression": "((x1 + square(x2)) / (0.49 - (1 + -1)))"}
+{"expression": "sin(cos(x1 / sqrt(0.56 + x2)))"}
+{"expression": "cos(-sqrt(x1) - 0.27)"}
+{"expression": "sin(-x1 + sqrt(square(0.68) - x2))"}
+{"expression": "((x1 * 0.07) / x2)"}
+{"expression": "((x1 * x2) + (1 / 0.09))"}
+{"expression": "cos(x1 + square(0.8)) + x2"}
+{"expression": "sqrt((x1 * cos(x2)) - 0.95)"}
+{"expression": "square(x1 * 0.25) * x2"}
+{"expression": "((x1 / x2) - 0.21)"}
+{"expression": "sin(sqrt(x1 / square(x2)))"}
+{"expression": "cos(x1) / x2 + 0.65"}
+{"expression": "sin(sqrt(x1 * square(0.65)))"}
+{"expression": "cos(x1) * (x2 - 0.62) / -1"}
+{"expression": "((x1 + x2) / 0.4)"}
+{"expression": "((x1 * square(x2)) / 0.2)"}
+{"expression": "((x1 + x2) + square(0.83))"}
+{"expression": "cos(x1) * square(0.64) + x2"}
+{"expression": "sin(x1) / square(0.42)"}
+{"expression": "cos(x1) * square(0.97) * x2"}
+{"expression": "sin(cos(x1 / sqrt(0.87)))"}
+{"expression": "sin(x1) + cos(0.34 * x2) + 1"}
+{"expression": "sin(x1) / (x2 - 0.45) - 1"}
+{"expression": "cos(x1) / sqrt(square(0.48) + x2)"}
+{"expression": "sqrt(x1 + 0.98) + x2"}
+{"expression": "cos(square(x1) / sin(0.43 * x2))"}
+{"expression": "sin(x1 * (x2 / 0.2))"}
+{"expression": "sin(sqrt(x1 / square(0.87))) / x2"}
+{"expression": "cos(x1) * sqrt(0.38 / x2)"}
+{"expression": "sqrt(cos(x1) * 0.19 / x2)"}
+{"expression": "0"}
+{"expression": "((x1 * -1) - (0.93 * x2))"}
+{"expression": "sqrt(x1) * (x2 - 0.59) / -1"}
+{"expression": "cos(sqrt(x1 + (x2 * 0.62))) + (-1 * 1)"}
+{"expression": "square(x1) / (x2 + 0.49)"}
+{"expression": "cos(x1) + x2 * 0.13"}
+{"expression": "sin(x1 / (square(x2) + 0.25))"}
+{"expression": "cos(-1 - sin(square(x1) - 0.33))"}
+{"expression": "sin(x1) / sqrt(0.22 + x2)"}
+{"expression": "sin(x1) - (x2 + 0.31)"}
+{"expression": "((x1 + square(0.98)) * x2)"}
+{"expression": "square(x1) - 0.21"}
+{"expression": "sqrt(square(x1) * 0.85) + x2"}
+{"expression": "sin(x1) - 0.79"}
+{"expression": "sqrt(cos(x1) / x2 + 0.61)"}
+{"expression": "0"}
+{"expression": "sqrt(square(x1) * 0.12)"}
+{"expression": "cos(x1) / sqrt(0.34 + x2)"}
+{"expression": "cos(-1 - sqrt(0.17 * x2))"}
+{"expression": "sin(x1) / (square(0.47) + x2)"}
+{"expression": "sin(x1 * 0.51)"}
+{"expression": "sin(sqrt(x1 / (square(x2) * 0.01)))"}
+{"expression": "square(x1) - 0.16"}
+{"expression": "sin(x1 * 0.37) * x2"}
+{"expression": "sin(sqrt(x1 * 0.75)) * x2"}
+{"expression": "sqrt((x1 * 0.05) / (x2 + 1))"}
+{"expression": "cos(x1) / (x2 - 0.31)"}
+{"expression": "sin(x1) + sqrt(0.99) + x2"}
+{"expression": "((x1 + x2) * 1.0)"}
+{"expression": "sin(-x1+sqrt(0.81-x2))"}
+{"expression": "cos(x1) - (0.8 / x2)"}
+{"expression": "cos(x1) * square(0.95) * x2"}
+{"expression": "sqrt(x1 / (x2 + 0.7))"}
+{"expression": "((x1 + x2) / (0.83 - 1)) - x1"}
+{"expression": "((x1 * square(x2)) - (0.17 * -1))"}
+{"expression": "sin(sqrt(x1) / (square(x2) + 0.23))"}
+{"expression": "(x1 + (x2 - 1))"}
+{"expression": "cos(sqrt(x1 * square(0.09))) * x2"}
+{"expression": "cos((x1 / x2) - 0.97)"}
+{"expression": "cos(x1) * (x2 / 0.22)"}
+{"expression": "sqrt(x1 + 0.51) + x2"}
+{"expression": "cos(x1 * (x2 - 0.19) / -1)"}
+{"expression": "sin(square(x1) * 0.13) * x2"}
+{"expression": "sin(-x1 + cos(square(0.44)))"}
+{"expression": "0"}
+{"expression": "cos(x1) + 0.33"}
+{"expression": "sin(x1) * square(0.76) * x2"}
+{"expression": "sqrt(x1 + (x2 / 0.35)) + -1"}
+{"expression": "((x1 * 0.51) + (x2 - 1)) / -1"}
+{"expression": "sin(-sqrt(x1) + 0.65)"}
+{"expression": "((x1 / square(x2)) / 0.18)"}
+{"expression": "sin(x1) + x2 - 0.67"}
+{"expression": "sin(sqrt(x1 * 0.8) * x2)"}
+{"expression": "sqrt(x1) / square(0.61 * x2)"}
+{"expression": "sin(sqrt(x1) / (square(x2) + 0.09))"}
+{"expression": "cos(x1) * (x2 + 0.54) - 1"}
+{"expression": "cos(x1) - 0.9"}
+{"expression": "sin(x1 + 0.78) + x2"}
+{"expression": "((x1 * 0.66) + (x2 / -1)) - 1"}
+{"expression": "square(x1) - (0.59 * x2)"}
+{"expression": "sqrt(cos(x1) / x2) + 0.51"}
+{"expression": "cos(x1) + square(0.73) / x2"}
+{"expression": "sin(x1) + (x2 - 0.85)"}
+{"expression": "sqrt(cos(x1) + 0.56) + x2"}
+{"expression": "cos(x1) + 0.42"}
+{"expression": "sin(x1 * cos(-1))"}
+{"expression": "((x1 + 0.09) * x2)"}
+{"expression": "cos(sqrt(x1) / (x2 + 0.2))"}
+{"expression": "cos(x1) - (0.48 * x2)"}
+{"expression": "cos(x1) + sin(0.93) + x2"}
+{"expression": "sqrt(x1 / (x2 + 1))"}
+{"expression": "cos(x1) + sqrt(0.11 * x2) + 1"}
+{"expression": "sin(sqrt(x1 + square(0.67))) + x2"}
+{"expression": "cos(x1) - 0.61"}
+{"expression": "sin(-x1 + 0.35) - x2"}
+{"expression": "sin(x1 * (x2 - 1))"}
+{"expression": "sin((x1 - (square(x2) * 0.76)))"}
+{"expression": "sin(x1) / (cos(x2) + 0.08)"}
+{"expression": "cos(x1) + sqrt(0.64 * x2) * -1"}
+{"expression": "sin(x1 / sqrt(0.11 + x2))"}
+{"expression": "0"}
+{"expression": "sin(sqrt(x1 * square(0.13)))"}
+{"expression": "cos(x1) - (0.35 * x2)"}
+{"expression": "sqrt(x1) + x2 - 0.44"}
+{"expression": "cos(x1) * (x2 + 1) / 0.58"}
+{"expression": "cos(x1) + (x2 / -1) - 0.98"}
+{"expression": "cos(x1) + x2 * (1 - 0.04)"}
+{"expression": "sin(x1) + 0.87"}
+{"expression": "sin(x1) * square(0.31) + x2"}
+{"expression": "sin(x1) - (x2 + 1) / 0.85"}
+{"expression": "cos(sqrt(x1) - square(0.66)) + x2"}
+{"expression": "sin(x1) + 0.12"}
+{"expression": "cos(x1) + sqrt(x2 / 0.74)"}
+{"expression": "((x1 / x2) - 0.51)"}
+{"expression": "sin(x1) + square(cos(0.38)) + x2"}
+{"expression": "sin(x1) - 0.65"}
+{"expression": "cos(x1 + (x2 / 0.71))"}
+{"expression": "cos(x1) * (x2 + 0.64) / -1"}
+{"expression": "cos(x1) + 0.7"}
+{"expression": "((x1 - 0.75) / x2)"}
+{"expression": "sqrt(sin(x1) + square(0.54)) + x2"}
+{"expression": "sin(x1) * (x2 - 0.2) / -1"}
+{"expression": "sqrt(x1) - (x2 / 0.43)"}
+{"expression": "((x1 * 0.62) / (x2 * -1))"}
+{"expression": "sin(x1) + (x2 - 0.22) / -1"}
+{"expression": "cos(-1 - square(x2))"}
+{"expression": "((x1 + x2) / 0.52)"}
+{"expression": "sqrt(x1 + square(0.75)) + x2"}
+{"expression": "sin(x1) - sqrt(x2 + 1) + (-1 * 0.51)"}
+{"expression": "sqrt(cos(x1) * square(0.48))"}
+{"expression": "sqrt(x1 * square(0.75)) * x2"}
+{"expression": "sin(cos(x1 + sqrt(0.6))) + x2"}
+{"expression": "((x1 * square(x2)) - (1 / 0.35))"}
+{"expression": "sin(x1) + square(x2) - (0.42 * 1)"}
+{"expression": "sin(x1) / (x2 + 0.4)"}
+{"expression": "sin(x1) / (x2 + 0.29)"}
+{"expression": "((x1 + x2) * (1 - 0.35)) - -1"}
+{"expression": "sin(x1) - 0.27"}
+{"expression": "cos(x1 * (x2 - 0.25))"}
+{"expression": "sin(x1) * (x2 - 1) + 0.02"}
+{"expression": "cos(x1) - 0.89"}
+{"expression": "sin(sqrt(x1 * 0.25)) * x2"}
+{"expression": "cos(-1 * sqrt(x1)) - sin(0.86 + square(x2))"}
+{"expression": "sin(x1) * square(x2) / 0.45"}
+{"expression": "sin(-x1 + square(0.02))"}
+{"expression": "0"}
+{"expression": "sqrt(x1 * (x2 / 0.96))"}
+{"expression": "((x1 * 0.07) / (x2 * -1))"}
+{"expression": "cos(x1) / square(x2) - 0.92"}
+{"expression": "cos(x1) + sin(0.53 * x2) + 1"}
+{"expression": "cos(x1) - sqrt(x2) + 1 - 0.1"}
+{"expression": "((x1 * x2) / (1 - 0.31))"}
+{"expression": "0"}
+{"expression": "((x1 * 0.46) / (x2 - 1))"}
+{"expression": "sin(-x1 + sqrt(0.55 * x2))"}
+{"expression": "cos(x1) - sin(square(x2))"}
+{"expression": "square(x1) - 0.21 * x2"}
+{"expression": "sqrt(0.33) + cos(x1) + x2"}
+{"expression": "cos(x1) * 0.42"}
+{"expression": "sqrt(x1) - (x2 * 0.58)"}
+{"expression": "cos(x1) * sin(x2) / 0.5"}
+{"expression": "0"}
+{"expression": "cos(x1) - sqrt(0.27 / x2)"}
+{"expression": "sqrt(x1) - (x2 * 0.56)"}
+{"expression": "cos(x1) + sqrt(0.6 * x2) + 1"}
+{"expression": "sin(x1) / (x2 + 0.45)"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "sin(x1) - 0.22"}
+{"expression": "sin(x1 * 0.5) * x2"}
+{"expression": "sin(x1 + (x2 * -1))"}
+{"expression": "cos(x1) + sqrt(0.6 * x2) + 1"}
+{"expression": "sin(x1 * square(0.58)) * x2"}
+{"expression": "sin(x1) + 0.46"}
+{"expression": "((x1 * -1) + (x2 - 0.52))"}
+{"expression": "cos(x1) * sin(sqrt(square(x2 + 1)))"}
+{"expression": "sqrt(x1) + (x2 / -1) - 0.48"}
+{"expression": "sqrt(x1 + 0.33) + x2"}
+{"expression": "sqrt(x1) / (x2 * 0.15)"}
+{"expression": "square(x1) - 0.73"}
+{"expression": "sin(x1) - 0.18"}
+{"expression": "sqrt(x1) + x2 - 0.32"}
+{"expression": "sin(-sqrt(x1) + square(0.78))"}
+{"expression": "cos(x1) / (x2 + 0.57)"}
+{"expression": "sin(cos(x1 / sqrt(0.88)))"}
+{"expression": "sin(x1) * sqrt(0.58 * x2)"}
+{"expression": "sin(x1) + 0.68"}
+{"expression": "sin(x1 * (x2 + 0.43))"}
+{"expression": "cos(sqrt(x1) + square(x2) * 0.21)"}
+{"expression": "sqrt(-1 - cos(x1))"}
+{"expression": "sin(square(x1) / (x2 + 1.0))"}
+{"expression": "sqrt(x1 * (x2 - 0.34))"}
+{"expression": "sin(x1) * cos(x2) - 0.83"}
+{"expression": "cos(x1) * (x2 + 0.06) / -1"}
+{"expression": "square(x1) - 0.18"}
+{"expression": "cos(x1 * x2) / (1 - 0.57) - x2"}
+{"expression": "sin(x1 * 0.04) * x2"}
+{"expression": "sin(x1) - 0.28"}
+{"expression": "square(-1 - cos(x1))"}
+{"expression": "cos(x1 * 0.27) * x2"}
+{"expression": "square(x1) / (x2 + 0.09)"}
+{"expression": "sqrt((x1 / square(x2)) * 0.56)"}
+{"expression": "sin(x1) - 0.23"}
+{"expression": "cos(x1) - 1 + x2"}
+{"expression": "sin(x1 * 0.71) * x2"}
+{"expression": "((x1 / x2) - 0.59)"}
+{"expression": "sin(x1) + square(cos(x2)) + 0.05"}
+{"expression": "sqrt(x1 + (x2 / 0.74)) + -1"}
+{"expression": "sqrt(square(x1) * 0.15) + x2"}
+{"expression": "cos(x1) - sin(x2) / 0.18"}
+{"expression": "((x1 / x2) - 0.68)"}
+{"expression": "sqrt(x1 / (x2 + 0.31))"}
+{"expression": "cos(x1) * (x2 + 1)"}
+{"expression": "square(x1) + 0.47"}
+{"expression": "sqrt(x1 * (x2 + square(0.89)))"}
+{"expression": "sin(-sqrt(x1) + 0.15) - x2"}
+{"expression": "sqrt(x1 * (x2 / 0.06)) + (-1)"}
+{"expression": "sqrt(-1 - sin(x1)) - cos(0.3 * x2)"}
+{"expression": "sin(x1) - (x2 / square(0.28))"}
+{"expression": "sqrt((cos(x1) + square(0.84)) + x2)"}
+{"expression": "cos(x1) - square(0.54 * x2)"}
+{"expression": "((x1 / 0.46) + x2)"}
+{"expression": "cos(x1 * (x2 - 0.38))"}
+{"expression": "sqrt(x1) + (0.86 / x2)"}
+{"expression": "sqrt(x1) - (x2 / 0.34)"}
+{"expression": "sqrt(x1 * (x2 - 1)) * 0.15"}
+{"expression": "sin(x1) + (x2 / -1) - 0.47"}
+{"expression": "sqrt(x1) * (x2 - 1) / 0.25"}
+{"expression": "sin(sqrt(x1) + square(0.03 * x2))"}
+{"expression": "cos(x1 * square(0.85)) * x2"}
+{"expression": "sqrt(x1 * (square(x2) - 0.32))"}
+{"expression": "sin(x1 * (x2 + 1) / 0.36)"}
+{"expression": "cos(x1) / square(0.73) + x2"}
+{"expression": "sqrt(square(x1) * 0.07) + x2"}
+{"expression": "sqrt(x1) - (x2 / 0.55)"}
+{"expression": "cos(x1 + 0.82) + x2"}
+{"expression": "((x1 + square(x2)) / (1 - 0.77))"}
+{"expression": "cos(x1) + (x2 / square(0.9))"}
+{"expression": "((x1 / x2) - 0.87)"}
+{"expression": "sin(x1 + 0.72) + x2"}
+{"expression": "sin(x1) * square(x2) - 0.41"}
+{"expression": "sin(x1) + square(0.72 * x2)"}
+{"expression": "((x1 + x2) * 0.46)"}
+{"expression": "square(x1) - 0.81"}
+{"expression": "sin(x1) * sqrt(square(0.47) + x2)"}
+{"expression": "cos(x1) - 0.19"}
+{"expression": "sqrt(x1) / square(0.35 * x2)"}
+{"expression": "cos(x1) / (x2 * 0.16)"}
+{"expression": "sqrt(x1) + square(0.05) + x2"}
+{"expression": "cos(x1) - square(0.75) - x2"}
+{"expression": "sin(x1 * (x2 / 0.37))"}
+{"expression": "cos(x1) / square(0.62 * x2)"}
+{"expression": "square(x1) + 0.1 * x2"}
+{"expression": "sqrt(x1) - (x2 + 1) + square(0.15)"}
+{"expression": "cos(x1) - sin(sqrt(x2)) - 0.08"}
+{"expression": "sqrt(x1 + (x2 * 0.9)) / -1"}
+{"expression": "sqrt(x1) - (x2 * 0.71)"}
+{"expression": "((x1 * x2) + (1 / 0.58))"}
+{"expression": "sin(x1) / (x2 - cos(0.84))"}
+{"expression": "0"}
+{"expression": "sin(x1 * 0.34)"}
+{"expression": "cos(x1) / square(0.56 * x2)"}
+{"expression": "cos(x1) + square(0.76) + x2"}
+{"expression": "sin(x1) + square(x2) / (1 + 0.44)"}
+{"expression": "((x1 * x2) / (0.95 + (1 * -1)))"}
+{"expression": "sqrt(x1 * (x2 - 1)) - square(0.03) * x2"}
+{"expression": "sin(x1) * square(0.62) - x2"}
+{"expression": "sqrt(cos(x1) * 0.95)"}
+{"expression": "sin(x1 * (x2 + 0.61)) / -1"}
+{"expression": "sqrt(x1) + (x2 / -1) - 0.54"}
+{"expression": "sqrt(x1 * (x2 + 1)) + 0.08"}
+{"expression": "sin(x1 * (x2 / 0.38))"}
+{"expression": "0"}
+{"expression": "sin(sqrt(x1 / 0.82) / x2)"}
+{"expression": "((x1 + square(x2)) / 0.14) + -1"}
+{"expression": "sin(x1 * (x2 + -1)) - 0.87"}
+{"expression": "((x1 * 0.27) / x2)"}
+{"expression": "cos(x1) - sqrt(0.07) - x2"}
+{"expression": "sqrt(x1) - (x2 * 0.99)"}
+{"expression": "cos(x1) + sqrt(square(0.16) + x2)"}
+{"expression": "((x1 * x2) + (0.92 / -1))"}
+{"expression": "sqrt(x1 / (square(x2) + 0.37))"}
+{"expression": "sin(x1) + (x2 / -1) - 0.57"}
+{"expression": "sqrt(x1) + x2 - 0.9"}
+{"expression": "sin(x1) + (x2 / -1) - 0.63"}
+{"expression": "((x1 + square(x2)) * (1 / 0.57))"}
+{"expression": "0"}
+{"expression": "sin(x1) + (x2 / -1) - 0.76"}
+{"expression": "x1 + x2 - 0.7"}
+{"expression": "square(x1) - 0.61"}
+{"expression": "cos(x1) / square(0.35)"}
+{"expression": "((x1 * x2) + 0.05)"}
+{"expression": "cos(x1) + square(0.2 / x2) / -1"}
+{"expression": "square(x1) + 0.7"}
+{"expression": "((x1 * 0.41) / (x2 + -1))"}
+{"expression": "sin(x1) / sqrt(0.81 + x2)"}
+{"expression": "cos(x1) + sqrt(x2 / 0.11) / -1"}
+{"expression": "sqrt(x1) + (x2 / 0.7)"}
+{"expression": "sqrt(x1 * square(0.48) + x2 * -1)"}
+{"expression": "sin(x1) / (x2 + 1)"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.65)) + square(-1)"}
+{"expression": "cos(x1 + sin(x2 * 0.23)) + 1"}
+{"expression": "((x1 + x2) / square(0.91)) + -1"}
+{"expression": "cos(x1) * sqrt(x2 + 0.07) + 1"}
+{"expression": "sqrt(x1) + (x2 - 0.68) / -1"}
+{"expression": "sqrt(x1) + 0.13"}
+{"expression": "cos(x1) * (x2 / 0.64)"}
+{"expression": "square(x1) / (x2 * 0.82)"}
+{"expression": "sin(x1 * (x2 + 0.92) / -1)"}
+{"expression": "sin(-x1 + square(0.64))"}
+{"expression": "cos(x1) * square(0.93 / x2)"}
+{"expression": "sin((x1 - (0.92 * sqrt(x2))))"}
+{"expression": "cos(x1) + sqrt(sin(0.35 * x2)) + 1"}
+{"expression": "cos(x1 + sqrt(x2 * 0.65) + 1)"}
+{"expression": "sqrt(x1 * 0.49) * x2"}
+{"expression": "sin(x1 * 0.05) * x2"}
+{"expression": "sin(x1) / (x2 + 0.83)"}
+{"expression": "((x1 + x2) / 0.16)"}
+{"expression": "sin(x1) - 0.48"}
+{"expression": "cos(x1) + (x2 - 0.85) / -1"}
+{"expression": "sqrt(x1 + 0.18) + x2"}
+{"expression": "sin(x1) / (x2 + 0.67)"}
+{"expression": "sin(x1 + 0.89) + x2"}
+{"expression": "sqrt(x1 + 0.2) + x2"}
+{"expression": "sqrt(x1 + square(0.24)) + x2"}
+{"expression": "((x1 * -1) - (0.87 * x2))"}
+{"expression": "sqrt((x1 - (x2 * 0.27)) / -1)"}
+{"expression": "cos(x1) - sin(0.18 * x2) - 1"}
+{"expression": "sqrt(x1 * (square(x2) / 0.96))"}
+{"expression": "sin(x1) + sqrt(0.49) + x2"}
+{"expression": "sqrt(cos(x1) + square(0.81)) + x2"}
+{"expression": "sin(x1) + cos(x2) / 0.74"}
+{"expression": "cos(x1 * 0.01) * x2"}
+{"expression": "cos(sqrt(x1 * 0.87)) * x2"}
+{"expression": "sqrt(x1) - (x2 + 1) / 0.93"}
+{"expression": "sin(x1) + square(0.2) + x2"}
+{"expression": "sin(x1 * cos(x2 / 0.81))"}
+{"expression": "sqrt(x1 * (square(x2) + 1))"}
+{"expression": "sin(x1) + square(x2) / (1 + 0.19)"}
+{"expression": "sin(square(x1) - sqrt(0.92 * x2))"}
+{"expression": "((x1 * -1) - (x2 * 0.66))"}
+{"expression": "square(x1) - 0.02"}
+{"expression": "cos(x1) * sqrt(x2 / 0.31) + 1"}
+{"expression": "sqrt(square(x1) * -1 - 0.54 * x2)"}
+{"expression": "sqrt(sin(x1) / (x2 + 0.95))"}
+{"expression": "cos(x1 * sin(square(x2) + 0.23) * -1)"}
+{"expression": "sin(x1 / 0.46) / x2"}
+{"expression": "cos(sqrt(x1) - sin(0.44)) - x2"}
+{"expression": "0"}
+{"expression": "sin(x1 * (x2 - 0.98))"}
+{"expression": "sin(x1) + sqrt(-1 - x2)"}
+{"expression": "sqrt(x1) + cos(x2 / 0.1)"}
+{"expression": "sqrt(x1 * square(0.85)) * x2"}
+{"expression": "cos(x1 + (x2 * 0.68))"}
+{"expression": "sin((x1 + square(x2)) / (0.67 + 1))"}
+{"expression": "((x1 / x2) - 0.59)"}
+{"expression": "cos(x1) + x2 - 0.96"}
+{"expression": "sqrt(x1) - (x2 * -1)"}
+{"expression": "((x1 + sqrt(x2)) / (0.74 * -1))"}
+{"expression": "cos(x1) + sqrt(0.73 * x2) + 1"}
+{"expression": "sin(x1) + square(x2) - (0.27 * 1)"}
+{"expression": "sqrt(square(x1) + (x2 - 0.57))"}
+{"expression": "((x1 * -1) / (x2 - 0.21))"}
+{"expression": "sin(x1 + (x2 * 0.77))"}
+{"expression": "square(x1) - 0.06 * x2"}
+{"expression": "((x1 * square(x2)) / 0.37)"}
+{"expression": "square(x1) - 0.65"}
+{"expression": "cos(x1) - sin(0.15 * x2)"}
+{"expression": "sqrt(x1) - square(0.28) / x2"}
+{"expression": "sin(x1) / (x2 + 0.69)"}
+{"expression": "((x1 + 0.99) / x2)"}
+{"expression": "sqrt(x1) - (x2 / 0.54)"}
+{"expression": "cos(x1) - sqrt(0.53 * square(x2))"}
+{"expression": "sqrt(x1 * (x2 / 0.39))"}
+{"expression": "cos(x1) / (x2 + 0.57)"}
+{"expression": "sin(x1) + cos(sqrt(0.49)) + x2"}
+{"expression": "cos(x1 * sqrt(square(0.91) + x2))"}
+{"expression": "sin(x1) * sqrt(square(x2) + 0.58)"}
+{"expression": "0"}
+{"expression": "cos(x1) * (x2 / 0.78)"}
+{"expression": "((x1 + x2) + square(0.93))"}
+{"expression": "cos(x1) * sqrt(0.39 + x2)"}
+{"expression": "cos(x1) / (x2 - 1) - 0.22"}
+{"expression": "sqrt(square(x1) + 0.9) + x2"}
+{"expression": "sqrt(x1 + 0.78) + x2"}
+{"expression": "square(x1) - 0.08"}
+{"expression": "((x1 * x2) + (1 / 0.37))"}
+{"expression": "((x1 * x2) - 0.03)"}
+{"expression": "sin(x1 * (x2 + -1)) - 0.46"}
+{"expression": "((x1 + square(x2)) * (0.19 - 1))"}
+{"expression": "cos(x1) * sin(x2) - 0.75"}
+{"expression": "((x1 * -1) - (x2 * 0.93))"}
+{"expression": "cos(-x1) - sqrt(0.43 * sin(x2))"}
+{"expression": "cos(sqrt(x1) / square(0.29))"}
+{"expression": "cos(x1) - square(x2) + 0.13"}
+{"expression": "sqrt(x1 * 0.06) * x2"}
+{"expression": "sin(x1) * cos(x2) - 0.41"}
+{"expression": "square(x1) / (x2 - 1)"}
+{"expression": "sin(square(x1) - (x2 * 0.61))"}
+{"expression": "sin(x1) + square(0.1) + x2"}
+{"expression": "((x1 + square(x2)) * (1 - 0.92))"}
+{"expression": "((x1 * 0.79) / x2)"}
+{"expression": "sqrt(x1) * cos(x2 - 1) - 0.16"}
+{"expression": "sin(x1 + (x2 * 0.08))"}
+{"expression": "0"}
+{"expression": "sin((x1 * (x2 / -1)) - 0.07)"}
+{"expression": "cos(sqrt(x1 + sin(0.66 * x2)))"}
+{"expression": "cos(x1) * square(x2) - 0.98"}
+{"expression": "cos(x1) / square(0.37) + x2"}
+{"expression": "sin(x1 * 0.29) * x2"}
+{"expression": "sin(x1 + 0.67) + x2"}
+{"expression": "cos(x1) - square(0.15 / x2) / 1"}
+{"expression": "square(x1 * 0.99)"}
+{"expression": "sqrt(x1) - square(0.64) - x2"}
+{"expression": "cos(x1) * (sin(x2) / 0.08) + 1"}
+{"expression": "cos(x1) * (x2 / 0.2)"}
+{"expression": "cos(x1) + (x2 - 0.96)"}
+{"expression": "((x1 / square(x2)) - 0.47)"}
+{"expression": "sin(x1 * 0.38) * x2"}
+{"expression": "sqrt(x1 * square(0.07 + x2))"}
+{"expression": "sin(x1 * sqrt(0.63))"}
+{"expression": "sin(x1 * square(x2 - 1)) - 0.49"}
+{"expression": "sqrt(x1) / square(0.99 * x2)"}
+{"expression": "square(x1 * 0.85)"}
+{"expression": "((x1 * 0.46) / x2)"}
+{"expression": "sin(x1) * (x2 + -1) - 0.61"}
+{"expression": "((x1 * square(x2)) / 0.44)"}
+{"expression": "sin(x1) / (cos(0.7) + x2)"}
+{"expression": "cos(x1 * 0.97 + x2)"}
+{"expression": "sin(sqrt(x1 * 0.62)) * x2"}
+{"expression": "cos(x1) * sqrt(-1 - x2)"}
+{"expression": "sqrt(x1 * 0.87) * x2"}
+{"expression": "cos(x1) * (x2 + 0.74)"}
+{"expression": "cos(x1) - square(0.14) / x2"}
+{"expression": "((x1 * -1) - (x2 * 0.04))"}
+{"expression": "cos(x1) - square(0.85) - x2"}
+{"expression": "sin(x1) / (cos(0.96) + sqrt(x2))"}
+{"expression": "sqrt(x1) * (x2 + 0.03)"}
+{"expression": "cos(x1) + sin(square(0.88)) + x2"}
+{"expression": "sin(x1) / (cos(x2) + 0.07)"}
+{"expression": "cos(square(x1) / (x2 + 0.84)) + 1"}
+{"expression": "cos(x1) - square(0.8 / x2) / 1"}
+{"expression": "sin(square(x1) + x2) + 0.99"}
+{"expression": "square(x1 * 0.83)"}
+{"expression": "sin(x1) * (x2 / square(0.16))"}
+{"expression": "((x1 / square(x2)) - (0.7 * -1))"}
+{"expression": "cos(x1) - square(0.46) - x2"}
+{"expression": "sqrt(x1 + 0.99) + x2"}
+{"expression": "sin(x1) + sqrt(0.79 * x2) + 1"}
+{"expression": "cos(x1) * 0.17"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.69))"}
+{"expression": "sqrt(x1 + (x2 / 0.64)) + square(-1)"}
+{"expression": "0"}
+{"expression": "sin(x1) / (x2 + 1 * 0.14)"}
+{"expression": "sin(x1) * sqrt(0.86 - x2) - 1"}
+{"expression": "sqrt((cos(x1) * x2) / 0.17)"}
+{"expression": "sin(x1) + x2 - 0.43"}
+{"expression": "cos(x1 / square(0.63))"}
+{"expression": "((x1 + x2) * 0.11)"}
+{"expression": "cos(sqrt(x1 + (x2 / 0.04)))"}
+{"expression": "cos(-1 - sin(0.23 * x1)) + sqrt(x2)"}
+{"expression": "((x1 * x2) / square(0.24))"}
+{"expression": "((x1 + square(x2)) - 0.26)"}
+{"expression": "sin(x1) + (x2 - 0.83) / -1"}
+{"expression": "sin(x1) / square(x2 - 0.53) - 1"}
+{"expression": "cos(sqrt(x1 * 0.42))"}
+{"expression": "cos(sqrt(x1 * sin(square(x2))))"}
+{"expression": "sin(x1) * (x2 - 0.05) / -1"}
+{"expression": "((cos(x1) * x2) + (1 / 0.02))"}
+{"expression": "sqrt(x1 + 0.78) + x2"}
+{"expression": "((x1 * x2) * square(0.79))"}
+{"expression": "sqrt(x1 / (x2 + 0.6))"}
+{"expression": "sqrt(x1 / (x2 + 0.93))"}
+{"expression": "sin(x1) * square(0.8) * x2"}
+{"expression": "sin(x1) + square(x2) - 0.49"}
+{"expression": "((x1 * x2) / square(0.81))"}
+{"expression": "sin(x1) * sqrt(x2) / 0.87"}
+{"expression": "square(x1) - 0.34"}
+{"expression": "sqrt(x1) / (x2 + 0.64)"}
+{"expression": "cos(sqrt(x1 + square(0.71))) + x2"}
+{"expression": "cos(x1) + sqrt(0.2 + x2)"}
+{"expression": "sqrt(x1 + 0.29) + x2"}
+{"expression": "sin(x1 * (x2 / 0.29))"}
+{"expression": "sqrt(x1) - (x2 + 1) / 0.53"}
+{"expression": "cos(x1) - sqrt(0.96 + x2) + 1"}
+{"expression": "square(x1) + 0.82 * x2"}
+{"expression": "sqrt(cos(x1) * -1) - x2"}
+{"expression": "square(x1) - cos(0.97 * x2)"}
+{"expression": "((x1 + x2) - 0.55)"}
+{"expression": "sin(x1) - 0.96"}
+{"expression": "((x1 + 0.61) * x2)"}
+{"expression": "((x1 - 0.99) / x2)"}
+{"expression": "cos(x1) + square(0.89) / x2"}
+{"expression": "0"}
+{"expression": "square(x1) / (x2 * 0.45)"}
+{"expression": "cos(x1 + x2 * 0.02) + 1"}
+{"expression": "cos(x1) - (0.88 * x2)"}
+{"expression": "((x1 * square(x2)) + (0.3 - 1))"}
+{"expression": "sin(x1) - square(0.66) - x2"}
+{"expression": "sqrt(x1 * 0.16) * x2"}
+{"expression": "cos(-x1) - sin(sqrt(0.99 * x2))"}
+{"expression": "sin(-x1 + sqrt(0.36 - x2))"}
+{"expression": "((x1 * -1) - (0.39 * x2))"}
+{"expression": "sin(x1) * square(0.41) * x2"}
+{"expression": "sqrt(square(x1) * 0.04) + x2"}
+{"expression": "((x1 + square(x2)) / (1 - 0.83))"}
+{"expression": "((x1 + x2) * 0.98)"}
+{"expression": "cos(x1) - 0.65"}
+{"expression": "sin(-x1 + square(0.98))"}
+{"expression": "((x1 * 0.64) / (x2 * -1))"}
+{"expression": "cos(x1) - sqrt(0.69) - x2"}
+{"expression": "sin(x1) - cos(x2) / 0.45"}
+{"expression": "sin(cos(x1 / 0.34) / x2)"}
+{"expression": "sin(x1 * (x2 + 1)) / 0.51"}
+{"expression": "((x1 * x2) + (square(0.46) * -1))"}
+{"expression": "sin((x1 * (x2 - 0.86)) / -1)"}
+{"expression": "0"}
+{"expression": "sin(x1) * square(x2) + 0.91"}
+{"expression": "square(x1) / (x2 * 0.76)"}
+{"expression": "sin(x1 * (x2 + 0.31) / -1)"}
+{"expression": "sqrt(x1 + sin(square(x2) + 1))"}
+{"expression": "sqrt((x1 - (x2 * 0.13)) / -1)"}
+{"expression": "((x1 + square(x2)) / (1 - (0.1 * x1)))"}
+{"expression": "cos(x1) / (sin(x2) - 0.16)"}
+{"expression": "((x1 + 0.95) / x2)"}
+{"expression": "cos(x1) - (x2 / 0.01)"}
+{"expression": "sin(x1 * 0.39) * x2"}
+{"expression": "((x1 * 0.7) + x2)"}
+{"expression": "0"}
+{"expression": "((x1 / x2) + 0.34)"}
+{"expression": "sqrt(x1) - 0.62"}
+{"expression": "cos(sqrt(x1 * 0.28)) * sin(x2)"}
+{"expression": "sqrt(x1) + sin(x2 / 0.85) + 1"}
+{"expression": "cos(x1) + (0.76 / x2)"}
+{"expression": "sin(x1) + cos(x2) / 0.99"}
+{"expression": "square(x1) / (x2 * 0.58)"}
+{"expression": "sin(-1 - sqrt(x2))"}
+{"expression": "cos(x1 / (x2 + 0.55))"}
+{"expression": "sin(x1 * 0.15) * x2"}
+{"expression": "sin(x1 * 0.06) * x2"}
+{"expression": "((x1 * square(x2)) - (0.69 / -1))"}
+{"expression": "sin(x1) - square(0.63 * x2) + 1"}
+{"expression": "sqrt(x1 + (x2 / 0.88))"}
+{"expression": "sin(x1) + 0.21"}
+{"expression": "cos(x1) + square(x2) / 0.16"}
+{"expression": "((x1 + x2) * (0.83 - 1))"}
+{"expression": "sqrt(x1) - (x2 * 0.34)"}
+{"expression": "sin(x1) - 0.31"}
+{"expression": "cos(x1 * 0.97) * x2"}
+{"expression": "0"}
+{"expression": "sin(x1 * cos(x2))"}
+{"expression": "((x1 * x2) + (sqrt(0.39) / -1))"}
+{"expression": "sin(x1) + sqrt(0.8 * x2) * -1"}
+{"expression": "((x1 + 0.91) / x2)"}
+{"expression": "sqrt(x1) + (x2 / -1) - 0.45"}
+{"expression": "0"}
+{"expression": "sin(x1) - (x2 / 0.48)"}
+{"expression": "cos(x1) * 0.86"}
+{"expression": "sqrt(x1) * (x2 + 0.62)"}
+{"expression": "cos((x1 + (x2 / 0.09))) + square(1)"}
+{"expression": "sin(x1 / (x2 + 0.16))"}
+{"expression": "((x1 + square(0.33)) / x2)"}
+{"expression": "cos(x1 + sin(x2)) + 0.1"}
+{"expression": "sin(x1 + 0.87) + x2"}
+{"expression": "sin(x1) / square(0.66)"}
+{"expression": "cos(x1 * square(0.09)) * x2"}
+{"expression": "sqrt(x1) - (x2 * 0.78)"}
+{"expression": "square(x1) - (x2 / 0.04)"}
+{"expression": "cos(x1) - 0.97"}
+{"expression": "sin(x1) + square(x2) - 0.91"}
+{"expression": "square(x1) + 0.13 * x2"}
+{"expression": "sin(x1) * cos(x2) + 0.36"}
+{"expression": "sin(sqrt(x1 * square(0.13))) * x2"}
+{"expression": "sin(x1) - 1"}
+{"expression": "sqrt(x1 + (x2 / 0.12))"}
+{"expression": "sin(x1) * cos(x2) + 0.26"}
+{"expression": "sqrt(sin(x1 * cos(x2)))"}
+{"expression": "cos(x1) * sin(0.28) * x2"}
+{"expression": "sin(x1 * sqrt(0.27)) * -1"}
+{"expression": "sin(x1) * cos(x2) - 0.86"}
+{"expression": "sin(x1 / (x2 + 1))"}
+{"expression": "sin(x1) + cos(0.11 * x2) + 1"}
+{"expression": "cos(x1) + sin(square(x2)) + 0.26"}
+{"expression": "cos(x1) + sqrt(0.89 * x2) + 1"}
+{"expression": "sqrt(-1 - cos(x1)) - square(0.39 * x2)"}
+{"expression": "sin(x1) + (x2 / 0.22)"}
+{"expression": "sin(x1) + sqrt(0.98 - x2)"}
+{"expression": "sqrt(cos(x1) + square(0.64)) + x2"}
+{"expression": "sin(x1) * square(x2) + 0.11"}
+{"expression": "sqrt(x1) - (x2 - 0.65)"}
+{"expression": "square(x1 * 0.03) * x2"}
+{"expression": "cos(x1) + square(-1) - (x2 * 0.36)"}
+{"expression": "sin(x1) * square(x2) - 0.32"}
+{"expression": "((x1 * square(x2)) + (0.62 / -1))"}
+{"expression": "square(x1 * 0.93)"}
+{"expression": "sqrt(cos(x1) + 0.97)"}
+{"expression": "sin(x1) + sqrt(0.77 / x2) / 1"}
+{"expression": "((x1 + x2) - 0.35)"}
+{"expression": "cos(x1) + sin(x2) / 0.52"}
+{"expression": "sqrt(x1) + 0.41"}
+{"expression": "sin(x1) * (x2 / square(0.03)) + 1"}
+{"expression": "sin(x1) - sqrt(0.88) - x2"}
+{"expression": "sin(-x1 + sqrt(cos(x2)))"}
+{"expression": "sin(-1 - sqrt(0.64 * x1))"}
+{"expression": "((x1 * square(x2)) / 0.6)"}
+{"expression": "cos(x1) + sin(x2) / 0.56"}
+{"expression": "cos(x1) - 0.71"}
+{"expression": "((x1 * x2) - (1 / 0.05)) + (-1)"}
+{"expression": "cos(x1) * (x2 + 1) / -1"}
+{"expression": "((x1 + square(x2)) - (1 * 0.58))"}
+{"expression": "sin(x1) + sqrt(0.66 * x2)"}
+{"expression": "cos(x1) + sin(x2) - 0.09"}
+{"expression": "sin(x1) + cos(0.26 * x2) + 1"}
+{"expression": "cos(x1) + square(0.4 * x2) + sin(-1)"}
+{"expression": "cos((x1 + (x2 / 0.43))) + square(1)"}
+{"expression": "sin(x1) + cos(0.37 * x2) + 1"}
+{"expression": "((x1 + x2) - 0.35)"}
+{"expression": "cos(x1 * (x2 - sqrt(0.29)))"}
+{"expression": "square(x1 + 0.32)"}
+{"expression": "cos(x1) / (x2 + 1) - 0.94"}
+{"expression": "sin(x1) - 0.84"}
+{"expression": "cos(x1) / sin(x2) + 1"}
+{"expression": "sin(-x1 + square(0.59))"}
+{"expression": "square(x1) - 0.18"}
+{"expression": "sin(x1 * square(0.64)) + sqrt(x2) * -1"}
+{"expression": "square(x1) + 0.79"}
+{"expression": "sqrt(square(x1) / (x2 + 0.35)) + 1"}
+{"expression": "cos(x1) + sqrt(0.58) + x2"}
+{"expression": "sin(x1) / square(0.08 + x2)"}
+{"expression": "cos(x1 + 0.38) + x2"}
+{"expression": "cos(x1 + x2) * 0.65 + 1"}
+{"expression": "sqrt(x1 + 0.56) + x2"}
+{"expression": "sqrt(x1 + 0.37) + x2"}
+{"expression": "((x1 * 0.31) / square(x2))"}
+{"expression": "sin(x1) * square(0.34 + x2) + 1"}
+{"expression": "sin(x1 * 0.61) * x2"}
+{"expression": "cos(x1) - sin(square(0.3))"}
+{"expression": "cos(x1) / sin(0.47 * x2)"}
+{"expression": "sin(sqrt(x1 / 0.98) + x2) / -1"}
+{"expression": "square(x1) - 0.63"}
+{"expression": "sin(x1 * 0.95) + x2"}
+{"expression": "0"}
+{"expression": "sqrt(square(x1) / (x2 + 0.28))"}
+{"expression": "cos(-x1) - square(0.47)"}
+{"expression": "((x1 + square(x2)) - (1 / 0.44))"}
+{"expression": "cos(x1 + (x2 * 0.21))"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "cos(x1) / (0.78 + x2)"}
+{"expression": "sqrt(x1) + square(0.41) + x2"}
+{"expression": "((x1 * x2) - 0.07)"}
+{"expression": "sqrt(x1) + 0.42"}
+{"expression": "0"}
+{"expression": "0"}
+{"expression": "square(x1) * (x2 - 1)"}
+{"expression": "sin(x1 * (x2 / square(0.31)))"}
+{"expression": "cos(x1) / square(0.43)"}
+{"expression": "((x1 * 0.62) - (x2 / 1)) + -1"}
+{"expression": "square(x1) + (x2 - 0.28)"}
+{"expression": "((x1 * -1) + (x2 - 0.07))"}
+{"expression": "sin((x1 / square(0.48)) + (x2 / -1))"}
+{"expression": "sqrt(x1 * cos(x2 / 0.05))"}
+{"expression": "sqrt(x1) + 0.8"}
+{"expression": "sin(sqrt(x1 / (square(x2) + 0.03)))"}
+{"expression": "cos(sqrt(x1) / (square(x2) * 0.42))"}
+{"expression": "sqrt(x1) - square(0.13) / (x2 - 1)"}
+{"expression": "cos(x1) + (x2 / -1) - 0.44"}
+{"expression": "((x1 + square(0.64)) / x2)"}
+{"expression": "cos(x1) / (x2 - 0.49)"}
+{"expression": "sin(x1) * (x2 - 0.14)"}
+{"expression": "sin(-x1 + sqrt(0.76 * x2))"}
+{"expression": "cos(x1 * sin(x2 + 0.88) + 1)"}
+{"expression": "square(x1) + (x2 / -1) - 0.87"}
+{"expression": "sqrt(x1) - (x2 + 0.92)"}
+{"expression": "((x1 * square(0.45)) / x2)"}
+{"expression": "sqrt(x1) - 0.47"}
+{"expression": "cos(x1) - sin(x2) * 0.13"}
+{"expression": "sin((x1 / sqrt(x2)) - square(0.51))"}
+{"expression": "sqrt((x1 * square(x2)) * 0.09)"}
+{"expression": "sin(x1) + square(cos(x2)) * 0.58"}
+{"expression": "square(x1 * (x2 / 0.51))"}
+{"expression": "((x1 * x2) - square(0.9))"}
+{"expression": "((x1 * x2) + (0.87 / -1))"}
+{"expression": "sin(x1) * square(0.93 * x2)"}
+{"expression": "cos(x1) * (x2 - 1) - 0.21"}
+{"expression": "sin(x1) + cos(x2) / 0.96"}
+{"expression": "cos(sqrt(x1) + square(0.14)) + x2"}
+{"expression": "sin(x1 + cos(x2 / 0.18)) + 1"}
+{"expression": "cos(x1) + square(x2) / 0.03"}
+{"expression": "square(x1) - sqrt(0.14 * x2) + 1"}
+{"expression": "sin(x1) - cos(square(0.27)) - x2"}
+{"expression": "sqrt((x1 * x2) / square(0.63))"}
+{"expression": "cos(x1) * (x2 / 0.84)"}
+{"expression": "sqrt(x1) * -1 - (x2 * 0.66)"}
+{"expression": "sin(x1 * cos(x2))"}
+{"expression": "sqrt(sin(x1) / (square(x2) + 0.24))"}
+{"expression": "cos(x1) - (0.28 * x2)"}
+{"expression": "cos(x1 + square(0.73)) + x2"}
+{"expression": "((x1 * x2) - 1)"}
+{"expression": "sin(x1) / sqrt(square(0.37) + x2)"}
+{"expression": "sin(x1) - 0.05 * x2"}
+{"expression": "sin(sqrt(x1 / square(0.07)))"}
+{"expression": "sin(x1) - (x2 / 0.3)"}
+{"expression": "cos(x1) + square(x2) - 0.23"}
+{"expression": "sqrt(x1) * (x2 + 0.33)"}
+{"expression": "cos(x1) * sin(x2) - 0.36"}
+{"expression": "((x1 + x2) / (1 - 0.76))"}
+{"expression": "((x1 * square(0.7)) * x2)"}
+{"expression": "sin(x1) * square(x2) + 0.54"}
+{"expression": "cos(x1) - square(0.52 / x2)"}
+{"expression": "sqrt(x1) - (x2 / square(0.42))"}
+{"expression": "cos(x1) * square(0.61 + x2) + 1"}
+{"expression": "((x1 + x2) / (1 * 0.91))"}
+{"expression": "((x1 + x2) / (0.99 * -1))"}
+{"expression": "sqrt(square(x1) + square(-1 * x2)) - 0.13"}
+{"expression": "((x1 * x2) - 1)"}
+{"expression": "sin(sqrt(x1 * square(0.74)))"}
+{"expression": "cos(x1) * sin(x2) / 0.61 + 1"}
+{"expression": "sin(x1 * square(0.82)) * x2"}
+{"expression": "sin(x1) - square(0.06) / (x2 - 1)"}
+{"expression": "sin(x1) + square(0.29 * x2)"}
+{"expression": "((x1 * x2) * square(0.48))"}
+{"expression": "sqrt((x1 * square(x2)) / 0.42)"}
+{"expression": "sqrt(x1) + x2 - 0.99"}
+{"expression": "cos(x1) + (x2 / 0.56)"}
+{"expression": "sqrt(x1 + 0.16) + x2"}
+{"expression": "sqrt(x1) * (x2 - 0.6) / -1"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.91))"}
+{"expression": "cos(x1) * square(0.27) * x2"}
+{"expression": "cos(x1) + (x2 / -1) - 0.0"}
+{"expression": "sin(x1 / 0.46) / x2"}
+{"expression": "sin(x1 * -1 + x2) - 0.75"}
+{"expression": "sin(x1) - (x2 + 0.87)"}
+{"expression": "((x1 - square(0.96)) / x2)"}
+{"expression": "sqrt(x1 * (x2 / 0.05))"}
+{"expression": "cos(x1) + (0.92 / x2)"}
+{"expression": "sin(x1) - square(x2) + 0.04"}
+{"expression": "((x1 * x2) - 0.16)"}
+{"expression": "sin(x1) * sqrt(x2) + square(0.33)"}
+{"expression": "sin(x1) - (x2 + 1) / -1"}
+{"expression": "sqrt(square(x1) + 0.31 * square(x2))"}
+{"expression": "cos(x1) + square(0.47) + x2"}
+{"expression": "sqrt(cos(x1) * -1 - x2)"}
+{"expression": "sin(x1 * (x2 - 0.2)) + cos(1)"}
+{"expression": "sqrt(square(x1) * 0.23) * x2"}
+{"expression": "sqrt(cos(x1) - (x2 / 0.13))"}
+{"expression": "cos(x1) - 0.91"}
+{"expression": "cos(x1) * square(x2) + 0.15"}
+{"expression": "cos(sqrt(x1 / 0.73)) / x2"}
+{"expression": "((x1 + square(0.38)) / (x2 - 1))"}
+{"expression": "sin(x1 * 0.63 + x2)"}
+{"expression": "cos(x1) - (0.89 / x2)"}
+{"expression": "((x1 + x2) / -1) + 0.52"}
+{"expression": "sqrt(x1) + square(0.68) / x2"}
+{"expression": "square(x1) - (0.63 * x2)"}
+{"expression": "cos(x1) + (x2 - 0.39)"}
+{"expression": "sin(x1) * sqrt(square(0.46) + x2)"}
+{"expression": "sin(x1) / (cos(x2) + 0.96)"}
+{"expression": "cos(x1) + sin(square(x2)) + 0.33"}
+{"expression": "sqrt(x1) - square(0.29) / x2"}
+{"expression": "sqrt(x1) / (x2 * 0.53)"}
+{"expression": "((x1 + x2) * 0.18)"}
+{"expression": "((x1 / x2) - 0.45)"}
+{"expression": "cos(x1) + sqrt(0.99) + x2"}
+{"expression": "sin(sqrt(x1 + square(0.94))) + x2"}
+{"expression": "cos(x1) + square(0.18) / x2"}
+{"expression": "sin(x1) - cos(x2) / 0.64"}
+{"expression": "cos(x1) + square(sin(x2)) * 0.92"}
+{"expression": "((x1 * x2) / (1 - 0.27))"}
+{"expression": "sin(x1) * (square(x2) / 0.63)"}
+{"expression": "0"}
+{"expression": "cos(x1) + x2 * 0.63"}
+{"expression": "square(x1) / (x2 * 0.79)"}
+{"expression": "sqrt(x1 + 0.95) + x2"}
+{"expression": "sqrt(-1 * square(x1) - 0.25 * x2)"}
+{"expression": "square(x1) / (x2 * 0.59)"}
+{"expression": "0"}
+{"expression": "sin(x1) / sqrt(0.42 + x2)"}
+{"expression": "cos(x1) + 0.06"}
+{"expression": "sin(x1) + x2 - 0.35"}
+{"expression": "((x1 + -1) - (0.79 + x2))"}
+{"expression": "cos(x1) * (x2 + -1) - 0.73"}
+{"expression": "sin(x1) * (x2 - 1)"}
+{"expression": "((x1 / square(x2)) / 0.61)"}
+{"expression": "sqrt(x1 + square(0.23)) + x2"}
+{"expression": "cos(x1) - square(0.21 + x2) + 1"}
+{"expression": "sqrt(x1 + (x2 * 0.22))"}
+{"expression": "sin(x1) - cos(0.56 * x2)"}
+{"expression": "cos(-x1) - square(0.06 * x2)"}
+{"expression": "square(cos(-1 - x2))"}
+{"expression": "sin(-1 - sqrt(square(x1) + 0.81 * x2))"}
+{"expression": "sin(x1) / (x2 - 0.79)"}
+{"expression": "sin(x1) + sqrt(x2 / 0.63) + 1"}
+{"expression": "((x1 * x2) + (1 / 0.19))"}
+{"expression": "sin(sqrt(x1 * 0.67) * x2)"}
+{"expression": "cos(x1 * 0.51) * x2"}
+{"expression": "sin(x1) + 0.69"}
+{"expression": "((x1 * 0.09) / (x2 * -1))"}
+{"expression": "cos(x1 * (x2 / 0.15))"}
+{"expression": "sqrt(x1 + 0.33) + x2"}
+{"expression": "cos(-(sqrt(square(x1)) - 0.35))"}
+{"expression": "sin(x1) - sqrt(x2) / 0.5"}
+{"expression": "0"}
+{"expression": "((x1 + 0.64) / x2)"}
+{"expression": "cos(x1) + sqrt(0.69) + x2"}
+{"expression": "sin(x1) - cos(square(0.93))"}
+{"expression": "0"}
+{"expression": "cos(x1) - (x2 / 0.16)"}
+{"expression": "cos(x1) - sin(square(x2)) + 0.95"}
+{"expression": "0"}
+{"expression": "sqrt(cos(x1) * (x2 / 0.77))"}
+{"expression": "sin(x1) / (cos(x2) + 0.14)"}
+{"expression": "sin(x1) - (x2 + 0.95) / -1"}
+{"expression": "cos(x1) / (square(0.35) + x2)"}
+{"expression": "sin(x1) - cos(0.18 * x2)"}
+{"expression": "((x1 * square(x2)) - (sqrt(0.04) * -1))"}
+{"expression": "sin(sqrt(x1 * -1) - 0.79)"}
+{"expression": "cos(x1) * sin(sqrt(0.38 * x2))"}
+{"expression": "cos(x1 * sin(x2 + 1) * 0.23)"}
+{"expression": "sin(x1) / (cos(0.46) + square(x2))"}
+{"expression": "sqrt(x1 + (x2 * 0.03)) / -1"}
+{"expression": "cos(sqrt(x1 * 0.07) + x2) * -1"}
+{"expression": "sin(x1) + square(cos(x2)) + 0.72"}
+{"expression": "sin(x1) - 0.62"}
+{"expression": "((x1 / x2) - 0.87)"}
+{"expression": "square(x1) + 0.93"}
+{"expression": "sqrt(x1 * 0.23) * x2"}
+{"expression": "square(x1) - (x2 * 0.01)"}
+{"expression": "sin(x1 * (x2 - 0.29))"}
+{"expression": "sqrt(x1 * 0.4) * x2"}
+{"expression": "((x1 / 0.66) + x2)"}
+{"expression": "((x1 * x2) * square(0.04))"}
+{"expression": "sin(x1 * (x2 + 0.26))"}
+{"expression": "square(x1) - sqrt(x2 / 0.09) / -1"}
+{"expression": "sin(x1) * square(x2) - 0.43"}
+{"expression": "cos(sqrt(x1 + 0.93)) + x2"}
+{"expression": "cos(x1) * 0.95"}
+{"expression": "sin(sqrt(x1 + square(0.37))) + x2"}
+{"expression": "cos(sqrt(x1 * square(0.72))) * x2"}
+{"expression": "sqrt((x1 * x2) - 0.99)"}
+{"expression": "cos(x1) * (x2 / 0.91)"}
+{"expression": "sin(x1) / sqrt(0.01 + x2)"}
+{"expression": "sqrt(x1) - square(0.75) / (x2 - 1)"}
+{"expression": "((x1 * 0.43) + x2)"}
+{"expression": "sin(x1) + sqrt(0.47) + x2"}
+{"expression": "cos(x1) / (square(sin(x2)) + 0.76)"}
+{"expression": "0"}
+{"expression": "cos(x1) - (x2 / 0.59)"}
+{"expression": "sin(x1 * (x2 / 0.63))"}
+{"expression": "cos(x1) / (0.92 + x2)"}
+{"expression": "cos(sqrt(x1 * square(0.3))) * sin(x2)"}
+{"expression": "((x1 * -1) + (x2 - 0.81))"}
+{"expression": "sqrt(x1 * square(0.27)) * x2"}
+{"expression": "((x1 / x2) - 0.25)"}
+{"expression": "sqrt(x1 * (x2 - square(0.1)))"}
+{"expression": "sin(x1) - square(0.22) + x2"}
+{"expression": "cos(x1) * (x2 + 0.13)"}
+{"expression": "cos(x1) / (square(0.6) + x2)"}
+{"expression": "sin(x1) - 0.15"}
+{"expression": "cos(x1 * (x2 / 0.14))"}
+{"expression": "sin(x1) - 0.49"}
+{"expression": "sin(x1) + sqrt(x2 * 0.02) + (-1)"}
+{"expression": "cos(x1) + sqrt(0.74 * x2) + 1"}
+{"expression": "sqrt(cos(x1 * 0.14) + x2) * -1"}
+{"expression": "0"}
+{"expression": "sin(sqrt(x1 + 0.58)) + x2"}
+{"expression": "sin(-x1 + sqrt(0.75 * x2))"}
+{"expression": "sin(x1 * -1) - 0.35"}
+{"expression": "sqrt((x1 + x2) * (1 - 0.33)) - x1"}
+{"expression": "square(x1) / (x2 + 0.94)"}
+{"expression": "sqrt(cos(x1) + 0.58) + x2"}
+{"expression": "cos(x1) / square(0.38) + x2"}
+{"expression": "sqrt((x1 * square(0.18)) * x2)"}
+{"expression": "cos(x1) + (x2 * -1) - 0.91"}
+{"expression": "sqrt(x1 * 0.79)"}
+{"expression": "cos(x1) / sqrt(square(0.64) + x2)"}
+{"expression": "sin(x1) * (x2 / cos(0.8))"}
+{"expression": "cos(x1 * 0.38) * x2"}
+{"expression": "((x1 * square(x2)) + (0.09 / -1))"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "sqrt(x1) - (x2 * 0.57)"}
+{"expression": "sqrt(cos(x1) / 0.97)"}
+{"expression": "sin(x1 + (x2 * 0.25))"}
+{"expression": "sin(x1) - 0.77"}
+{"expression": "cos(x1) * square(sin(x2)) + 0.12"}
+{"expression": "square(x1 * 0.24)"}
+{"expression": "sqrt(x1 * 0.32)"}
+{"expression": "((x1 * square(x2)) - (0.81 / -1))"}
+{"expression": "cos(x1) + sqrt(0.86) + x2"}
+{"expression": "sqrt(-1 * (cos(x1) - square(0.14)))"}
+{"expression": "cos(x1) / (x2 + 0.75)"}
+{"expression": "cos(x1 * 0.01) * x2"}
+{"expression": "sqrt((x1 * 0.89) / square(x2))"}
+{"expression": "sqrt(-1 * (cos(x1) - square(0.43)))"}
+{"expression": "cos(x1) - sin(0.5 * x2)"}
+{"expression": "sin(x1 * 0.56 + x2)"}
+{"expression": "sin(sqrt(x1 * 0.33)) * x2"}
+{"expression": "((x1 * x2) - 0.75)"}
+{"expression": "cos(x1) - sqrt(0.57) - x2"}
+{"expression": "cos(x1) - (0.85 * x2)"}
+{"expression": "sin(x1) + sqrt(-1 - x2) + 0.66"}
+{"expression": "sin(sqrt(x1) / (x2 + 0.11))"}
+{"expression": "sin(x1) + 0.64"}
+{"expression": "((x1 * square(x2)) - 0.65)"}
+{"expression": "sin(x1 * cos(x2))"}
+{"expression": "sqrt(x1 + 0.22) + x2"}
+{"expression": "((x1 * 0.96) / x2)"}
+{"expression": "cos(x1 * sqrt(0.4 + x2))"}
+{"expression": "sin(x1) - 0.9"}
+{"expression": "((x1 + square(0.21)) + square(x2))"}
+{"expression": "square(x1 * 0.84)"}
+{"expression": "((x1 - 0.34) * square(x2)) + (1 * -1)"}
+{"expression": "((x1 + x2) / (1 - 0.62))"}
+{"expression": "sin(x1) * square(0.83) * x2"}
+{"expression": "sqrt(x1 * 0.65) * x2"}
+{"expression": "cos(x1) / (x2 * 0.15)"}
+{"expression": "0"}
+{"expression": "sin(x1) + sqrt(square(x2) + 1)"}
+{"expression": "((x1 * -1) - (x2 * 0.7))"}
+{"expression": "sin(x1) + sqrt(square(0.92) + x2)"}
+{"expression": "sqrt((x1 - (x2 / square(0.05))) - 1)"}
+{"expression": "cos(x1) - 0.51"}
+{"expression": "0"}
+{"expression": "cos(x1) * sqrt(-1 - x2) - 0.26"}
+{"expression": "((x1 * 0.54) / x2)"}
+{"expression": "cos(x1) + sqrt(0.2) + x2"}
+{"expression": "cos(sqrt(x1) / (x2 + 0.67)) + 1"}
+{"expression": "cos(x1) + (x2 / 0.15)"}
+{"expression": "sqrt(x1) / (x2 + 0.05)"}
+{"expression": "((x1 + -1) - (0.85 + x2))"}
+{"expression": "sqrt(x1 * (x2 / 0.34))"}
+{"expression": "cos(x1) + (x2 / 0.2)"}
+{"expression": "sin(x1) - sqrt(0.62 * x2)"}
+{"expression": "sin(x1 + (x2 - 0.31))"}
+{"expression": "((x1 * x2) - (0.69 / -1))"}
+{"expression": "cos(x1) + sin(0.38) + x2"}
+{"expression": "cos(sqrt(x1 / 0.65)) / x2"}
+{"expression": "cos(x1) + square(x2) - 0.82"}
+{"expression": "((x1 - square(0.75)) / x2)"}
+{"expression": "((x1 + 0.39) / x2)"}
+{"expression": "cos(sqrt(x1 / sin(square(0.56) + x2)))"}
+{"expression": "cos(-1 - sin(x1)) - square(0.15 * x2)"}
+{"expression": "sin(x1 + (x2 / square(0.46)))"}
+{"expression": "0"}
+{"expression": "sqrt(x1) + (x2 - 0.97) / 1"}
+{"expression": "sqrt(square(x1) + square(0.86))"}
+{"expression": "sqrt((x1 + 0.41) / (square(x2) + -1))"}
+{"expression": "((x1 + x2) / (1 - 0.61)) - (-1)"}
+{"expression": "sin(sqrt(x1 * -1) - 0.2)"}
+{"expression": "((x1 * 0.82) / (x2 - 1))"}
+{"expression": "sin(x1) * cos(square(x2)) * 0.21"}
+{"expression": "cos(x1) - sqrt(0.32) - x2"}
+{"expression": "sqrt(square(x1) + (x2 * 0.18))"}
+{"expression": "sqrt(x1) + (x2 / (0.47 * -1))"}
+{"expression": "cos(x1) * sqrt(x2 / 0.42) / -1"}
+{"expression": "cos(x1) - (x2 * 0.41)"}
+{"expression": "sqrt(x1 * square(0.34)) * x2"}
+{"expression": "cos(sqrt(x1 + (x2 * 0.09)))"}
+{"expression": "cos(x1) * (x2 + -1) - 0.76"}
+{"expression": "sqrt(x1) - (x2 / 0.27)"}
+{"expression": "0"}
+{"expression": "sin(x1) * cos(0.6) + x2"}
+{"expression": "sin(x1) / (x2 + 0.09)"}
+{"expression": "((x1 * x2) + (1 / -1)) - 0.08"}
+{"expression": "((x1 * x2) + 0.2)"}
+{"expression": "sqrt(x1) - (x2 * 0.73)"}
+{"expression": "sin(x1) * -1 - 0.59"}
+{"expression": "((x1 * x2) - 0.31)"}
+{"expression": "((x1 * x2) + 0.06)"}
+{"expression": "cos(x1) + (0.49 / x2)"}
+{"expression": "((x1 + x2) * (square(0.48) / -1))"}
+{"expression": "sqrt(x1 * (x2 + 1) / 0.06)"}
+{"expression": "sin(x1) + cos(x2) - 0.96"}
+{"expression": "((x1 * x2) - 0.93)"}
+{"expression": "square(x1 + 0.1)"}
+{"expression": "sqrt(x1 * (x2 + 1)) + square(0.99)"}
+{"expression": "sqrt(x1) + square(x2) - 1"}
+{"expression": "sin((x1 / square(0.41)) + (x2 / -1))"}
+{"expression": "sin(x1) + (x2 / 0.67)"}
+{"expression": "((x1 * 0.84) / (x2 + -1))"}
+{"expression": "square(x1) * 0.78"}
+{"expression": "sqrt(sin(x1) * (x2 + 0.45)) + 1"}
+{"expression": "sin(x1 * (x2 + 0.31))"}
+{"expression": "cos(-x1 + sqrt(square(0.97) - x2))"}
+{"expression": "sin(x1) / (cos(x2) + 0.31) + 1"}
+{"expression": "sqrt(-1 * (cos(x1) - x2))"}
+{"expression": "square(x1) - 0.06"}
+{"expression": "cos(x1) * square(sin(x2)) + 0.9"}
+{"expression": "cos(sin(x1 / (0.53 + square(x2))))"}
+{"expression": "((x1 * x2) / 0.23)"}
+{"expression": "cos(x1) / sqrt(0.49 + x2)"}
+{"expression": "cos(x1) + square(x2) / 0.22"}
+{"expression": "((x1 / x2) + (0.77 - 1))"}
+{"expression": "cos(x1 * sin(0.65))"}
+{"expression": "((x1 + x2) * square(0.17)) + 1"}
+{"expression": "sin(x1) + square(x2) / 0.96"}
+{"expression": "sin(x1) - sqrt(0.88) - x2"}
+{"expression": "sin(x1) - 0.96"}
+{"expression": "((x1 + 0.6) * x2)"}
+{"expression": "sin(x1) / (cos(x2) + 0.13)"}
+{"expression": "sqrt(cos(x1) * (x2 + 0.82)) + 1"}
+{"expression": "((x1 * square(x2)) / 0.74)"}
+{"expression": "((x1 / -1) - (x2 * 0.75))"}
+{"expression": "sin(x1) + sqrt(0.79 / x2)"}
+{"expression": "square(x1) / (x2 + 0.89)"}
+{"expression": "cos(x1) * square(x2) - 0.79"}
+{"expression": "((x1 / x2) - 0.99)"}
+{"expression": "cos(x1) + square(0.86) - (x2 + 1)"}
+{"expression": "square(x1 * 0.78)"}
+{"expression": "cos(x1 * sin(0.96)) * x2"}
+{"expression": "cos(x1) * (x2 + 0.94)"}
+{"expression": "sqrt((x1 * x2) / 0.98)"}
+{"expression": "sqrt(x1 * (x2 - 0.35)) - 1"}
+{"expression": "sqrt(x1 + (x2 / 0.75)) + square(-1)"}
+{"expression": "cos(x1) + sin(square(x2)) * 0.06"}
+{"expression": "sin(x1) / sqrt(0.91 + x2)"}
+{"expression": "sqrt((x1 + (x2 * -1)) + (1 * 0.25))"}
+{"expression": "((x1 * x2) + (1 / 0.02))"}
+{"expression": "cos(x1) / square(0.88 * x2)"}
+{"expression": "sin(x1 * sqrt(0.6)) * -1"}
+{"expression": "sqrt(x1) + (x2 / 0.85)"}
+{"expression": "sin(x1) / (x2 + 0.36)"}
+{"expression": "sqrt(x1) - 0.68"}
+{"expression": "sqrt(cos(x1) * 0.29 / x2)"}
+{"expression": "cos(x1) - square(0.08)"}
+{"expression": "cos(x1) * sqrt(x2 + 0.15) + 1"}
+{"expression": "sin(x1) - cos(0.5 * x2) - 1"}
+{"expression": "sin(x1 * 0.04)"}
+{"expression": "sin(x1) * sqrt(square(x2) + 0.58)"}
+{"expression": "sin((x1 - (x2 * 0.58)) + 1)"}
+{"expression": "cos(x1) + sin(x2) - 0.49"}
+{"expression": "cos(square(x1) - x2) - 0.01"}
+{"expression": "sin(x1) + cos(x2) / 0.56 + 1"}
+{"expression": "cos(-x1 + sqrt(square(0.23) - x2))"}
+{"expression": "((x1 + 0.98) / square(x2)) + 1"}
+{"expression": "sin(x1 + square(0.1)) + x2"}
+{"expression": "sin(x1) - square(0.8 / x2) / 1"}
+{"expression": "sin(x1) + 0.08"}
+{"expression": "sqrt(x1) - (x2 * 0.94)"}
+{"expression": "sin(x1 * -1) - 0.43"}
+{"expression": "sin(x1) * (cos(x2) - 0.81)"}
+{"expression": "square(x1 * 0.26)"}
+{"expression": "sqrt(x1 * (x2 / 0.62))"}
+{"expression": "((x1 - square(0.4)) / (x2 - 1))"}
+{"expression": "((x1 * -1) - (0.79 * x2))"}
+{"expression": "sqrt(x1) - (x2 + 0.96)"}
+{"expression": "cos(x1) - sin(0.79 * x2)"}
+{"expression": "((x1 + 0.37) + square(x2))"}
+{"expression": "(x1 + (x2 - 0.91))"}
+{"expression": "sin(x1) * (cos(x2) / 0.23)"}
+{"expression": "sin(x1) + square(x2) - 0.04 * x1"}
+{"expression": "cos(sqrt(x1 + square(0.92))) + x2"}
+{"expression": "sin(x1) + sqrt(x2 * 0.11) * -1"}
+{"expression": "cos(x1) * (square(x2) + 0.48) + 1"}
+{"expression": "sqrt(x1) - (x2 / square(0.23)) + 1"}
+{"expression": "((x1 + square(0.78)) / x2)"}
+{"expression": "((x1 * 0.44) / (x2 * -1))"}
+{"expression": "0"}
+{"expression": "x1 + (x2 - 1)"}
+{"expression": "cos(x1) * (x2 + -1) - 0.17"}
+{"expression": "cos(sqrt(x1 * square(0.53)))"}
+{"expression": "sin(x1) - 0.53"}
+{"expression": "cos(sqrt(x1) - 0.49) - x2"}
+{"expression": "sin(sqrt(x1 / square(cos(0.69 * x2))))"}
+{"expression": "((x1 + square(x2)) - (1 / 0.5))"}
+{"expression": "cos(x1) + sqrt(0.77 / x2)"}
+{"expression": "sin(-x1 + 1)"}
+{"expression": "sqrt(x1 + square(x2 * 0.76)) + (1 * -1)"}
+{"expression": "sin(x1) / sqrt(0.18 + x2) - 1"}
+{"expression": "square(x1) + (x2 - 0.89)"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "sin(x1) / (square(x2) + 0.52)"}
+{"expression": "cos(-x1 + sqrt(0.97))"}
+{"expression": "sqrt(square(x1) / (x2 + 0.33))"}
+{"expression": "sqrt(square(x1) + cos(0.78 * x2)) + 1"}
+{"expression": "square(x1) + 0.82"}
+{"expression": "cos(x1) + 0.07"}
+{"expression": "sin(x1) / sqrt(0.89 * x2)"}
+{"expression": "cos(x1) - (x2 * 0.14)"}
+{"expression": "((x1 * x2) + (1 / 0.04)) - (-1 * x1)"}
+{"expression": "sin((x1 / sqrt(x2)) - 0.18)"}
+{"expression": "0"}
+{"expression": "sin(x1 * (x2 / 0.43))"}
+{"expression": "cos(x1) + sin(sqrt(0.5 * x2))"}
+{"expression": "cos(x1) / square(0.31 * x2)"}
+{"expression": "cos(x1 * -1) - x2 * 0.5"}
+{"expression": "sin(x1 * (x2 - 0.16)) / -1"}
+{"expression": "sqrt(-1 * (x1 - square(0.74)))"}
+{"expression": "((x1 + x2) * (0.87 - 1)) - x1"}
+{"expression": "sin(-x1 + square(0.67))"}
+{"expression": "sin(x1 * sqrt(0.65))"}
+{"expression": "sin(sqrt(x1) / (x2 - 1)) - 0.04"}
+{"expression": "sqrt(x1 + (x2 / 0.75))"}
+{"expression": "sqrt(x1) + (x2 - 1) / 0.21"}
+{"expression": "((x1 + x2) * square(0.02)) + 1"}
+{"expression": "sin(x1) + cos(x2) - 1"}
+{"expression": "sqrt(x1) - (x2 / 0.28)"}
+{"expression": "sqrt(x1) - (x2 / square(0.84))"}
+{"expression": "square(x1) / (x2 + 0.67)"}
+{"expression": "cos(sqrt(x1 * 0.68)) * x2"}
+{"expression": "((x1 + square(0.65)) / x2)"}
+{"expression": "sin(-x1 + square(0.62 * cos(sqrt(x2))))"}
+{"expression": "sqrt(x1 + (square(x2) - 0.31))"}
+{"expression": "((x1 - 0.79) / x2)"}
+{"expression": "cos(x1) * sin(0.96) + x2"}
+{"expression": "cos(x1) / (x2 - 0.49)"}
+{"expression": "sqrt(x1 * 0.23) * x2"}
+{"expression": "cos(x1) * sqrt(x2 + 0.07) + 1"}
+{"expression": "cos(x1 * 0.18) * x2"}
+{"expression": "cos(x1) + sqrt(0.73 * x2) + 1"}
+{"expression": "sin(x1) * (x2 - 0.56) / -1"}
+{"expression": "cos(x1) + square(x2) - 0.59"}
+{"expression": "sin(x1) + (0.97 / x2)"}
+{"expression": "sqrt(x1 + 0.44) + x2"}
+{"expression": "sin(x1) - 0.74"}
+{"expression": "((x1 * square(x2)) - (0.9 * -1))"}
+{"expression": "cos(x1) * 0.2"}
+{"expression": "cos(x1) + sqrt(square(0.83) + x2)"}
+{"expression": "cos(sqrt(x1 + 0.84)) + x2"}
+{"expression": "cos(x1) * sin(0.63) + x2"}
+{"expression": "square(x1) - 0.23"}
+{"expression": "sin(x1) + sqrt(0.04) + square(x2)"}
+{"expression": "sqrt(cos(x1) - (x2 / 0.25))"}
+{"expression": "((x1 / x2) - 0.28)"}
+{"expression": "sin(x1) + sqrt(0.78) + x2"}
+{"expression": "sqrt(x1) - (x2 / 0.13)"}
+{"expression": "sin(x1) + sqrt(x2 * 0.66) * -1"}
+{"expression": "sqrt(x1 + (x2 * -1)) + 0.01"}
+{"expression": "cos(x1) * sin(sqrt(0.95 * x2))"}
+{"expression": "cos(x1) * square(x2) - 0.37"}
+{"expression": "((x1 * x2) / square(0.87))"}
+{"expression": "((x1 + square(0.21)) + square(x2))"}
+{"expression": "sin(x1) + square(x2) / 0.85"}
+{"expression": "sin(x1) * square(0.97) * x2"}
+{"expression": "cos(x1) - sin(0.92 * x2)"}
+{"expression": "cos(x1) / square(0.47 * x2)"}
+{"expression": "sqrt(x1 + 0.26) + x2"}
+{"expression": "sin(sqrt(x1) - square(0.17 * x2)) + 1"}
+{"expression": "sin(x1) + sqrt(0.34) + x2"}
+{"expression": "sqrt(x1 + 0.65) + x2"}
+{"expression": "cos(x1) / square(x2 - 1) - 0.1"}
+{"expression": "((x1 - 0.31) / x2)"}
+{"expression": "cos(x1) * sqrt(0.22 + x2)"}
+{"expression": "square(x1) - 0.7"}
+{"expression": "sin(x1) + square(x2) / (0.1 + x1)"}
+{"expression": "((x1 * square(x2)) + (1 - 0.4))"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.67)) + 1"}
+{"expression": "cos(x1) * (x2 / 0.91)"}
+{"expression": "sqrt(cos(x1 * 0.73) * -1 + x2)"}
+{"expression": "cos(x1) / (square(sin(x2)) + 0.82)"}
+{"expression": "sin(x1) * square(x2) - 0.38"}
+{"expression": "sin(x1) / (cos(x2) + 0.09)"}
+{"expression": "cos(x1) + (x2 / -1) - 0.19"}
+{"expression": "cos(x1 * 0.29) * x2"}
+{"expression": "cos(x1) / square(0.86 * x2)"}
+{"expression": "sqrt(x1 * (x2 / square(0.95)))"}
+{"expression": "((x1 + x2) * 0.79)"}
+{"expression": "sqrt(x1 - (x2 / 0.86)) - square(1)"}
+{"expression": "cos(x1 + x2 * 0.15) + 1"}
+{"expression": "sqrt(x1 * (x2 + 1))"}
+{"expression": "square(x1) - (x2 + 0.75)"}
+{"expression": "sin(x1 + square(0.41)) + x2"}
+{"expression": "square(x1) - cos(0.42 * x2)"}
+{"expression": "cos(x1 * 0.55) * x2"}
+{"expression": "square(x1) - 0.47"}
+{"expression": "0"}
+{"expression": "((x1 * -1) + (x2 - 0.53))"}
+{"expression": "sqrt((square(x1) / (x2 + 0.28)) - 1)"}
+{"expression": "((x1 + x2) / -1)"}
+{"expression": "cos(x1) / (x2 + 0.15)"}
+{"expression": "((x1 * square(x2)) - 0.57)"}
+{"expression": "((x1 + x2) * (1 - 0.22))"}
+{"expression": "sin(x1) / sqrt(square(0.41) + x2)"}
+{"expression": "cos(-1 - square(x2))"}
+{"expression": "cos(x1 / 0.46) / x2"}
+{"expression": "cos(sqrt(x1 * 0.88))"}
+{"expression": "sin(x1 * 0.84) * x2"}
+{"expression": "cos(x1) / sqrt(0.78 - x2)"}
+{"expression": "sin(x1 + (x2 * 0.44))"}
+{"expression": "sin(x1) + square(0.54 * x2)"}
+{"expression": "sqrt(x1) - square(0.82 * x2)"}
+{"expression": "((x1 + -1) / (0.37 - x2))"}
+{"expression": "cos(x1) - (x2 * 0.19)"}
+{"expression": "((x1 * -1) - (x2 * 0.16))"}
+{"expression": "cos(x1) + sin(x2) * 0.96"}
+{"expression": "sin(sqrt(x1 * cos(square(x2))))"}
+{"expression": "cos(x1) - sqrt(0.61 * x2)"}
+{"expression": "sqrt(x1 * (x2 / square(0.05)))"}
+{"expression": "sqrt(cos(x1) / x2) + 0.24"}
+{"expression": "((x1 * x2) + (square(0.77) * -1))"}
+{"expression": "sqrt(x1 / (x2 + 0.87))"}
+{"expression": "0"}
+{"expression": "cos(x1) - square(0.56)"}
+{"expression": "cos(sqrt(x1 / (x2 + 1)))"}
+{"expression": "sin(x1) * square(0.85) * x2"}
+{"expression": "sqrt(x1 * (x2 / 0.01)) + square(-1)"}
+{"expression": "sqrt(-1 - cos(square(x1)))"}
+{"expression": "sin(cos(x1 / (0.36 + x2))) / sqrt(1 - (-1 * x2))"}
+{"expression": "sqrt(x1) - (x2 / 0.96) + square(-1)"}
+{"expression": "sin(x1) - sqrt(0.41 * x2)"}
+{"expression": "sin(x1 * 0.65) * x2"}
+{"expression": "(x1 - (x2 + 1))"}
+{"expression": "cos(x1) / (sin(x2) + 0.05) + 1"}
+{"expression": "square(x1 + 0.56)"}
+{"expression": "sin(x1) + x2 - 0.97"}
+{"expression": "sin(x1) + square(x2) - 0.38"}
+{"expression": "sin(x1) + cos(0.83) + x2"}
+{"expression": "sin(x1) - sqrt(0.18 / x2) / 1"}
+{"expression": "square(x1) * 0.16"}
+{"expression": "cos((x1 - (0.95 * x2)) + 1)"}
+{"expression": "cos(x1) * (x2 - 0.33) / -1"}
+{"expression": "cos(x1) * square(0.29 + x2) + (-1)"}
+{"expression": "sqrt(x1 + 0.28) + x2"}
+{"expression": "sin(x1 + (x2 * -1)) - (0.2 * x1)"}
+{"expression": "cos(x1) * sin(sqrt(0.7 + x2))"}
+{"expression": "((x1 + square(x2)) * (0.68 - 1))"}
+{"expression": "cos(x1) * (x2 - square(0.56))"}
+{"expression": "sin(x1 + sqrt(x2 * 0.61)) + 1"}
+{"expression": "cos(-1 - sqrt(x2))"}
+{"expression": "0"}
+{"expression": "((x1 * 0.62) / (x2 * -1))"}
+{"expression": "sqrt(x1 * 0.2) * x2"}
+{"expression": "0"}
+{"expression": "((x1 * 0.53) / x2)"}
+{"expression": "sin(x1) + 0.03"}
+{"expression": "sin(x1) * square(x2) / 0.99"}
+{"expression": "cos(x1) + sqrt(x2 / 0.46) / -1"}
+{"expression": "sin(cos(x1 * square(0.63)))"}
+{"expression": "sin(x1) - 0.88"}
+{"expression": "square(x1) / (x2 + 0.51)"}
+{"expression": "((x1 * x2) / 0.75)"}
+{"expression": "sin(x1) + cos(0.75 * x2) + 1"}
+{"expression": "0"}
+{"expression": "square(x1) - 0.64"}
+{"expression": "sin(x1) - sqrt(0.23 * x2) * -1"}
+{"expression": "sin(x1) - (x2 / 0.27)"}
+{"expression": "cos(x1) - 0.05 * x2"}
+{"expression": "sin(x1) / (x2 + 0.75)"}
+{"expression": "((x1 + x2) / 0.02)"}
+{"expression": "((x1 + square(0.62)) - x2)"}
+{"expression": "0"}
+{"expression": "sin(x1 + x2) * 0.09 + 1"}
+{"expression": "sin(x1) / cos(0.64 * x2)"}
+{"expression": "((x1 + -1) - (0.22 + x2))"}
+{"expression": "cos(x1) + sqrt(0.97 * x2) + 1"}
+{"expression": "cos(x1 / 0.51) / x2"}
+{"expression": "((x1 * x2) + (1 / 0.43)) - (-1)"}
+{"expression": "sin(x1) + (x2 / 0.26)"}
+{"expression": "((x1 * -1) - (0.86 * x2))"}
+{"expression": "cos(x1) * square(0.17) + sin(x2) * -1"}
+{"expression": "cos(x1) + (x2 - 0.03)"}
+{"expression": "cos(x1) / sqrt(square(0.3) + square(x2))"}
+{"expression": "sin(sqrt(x1 / 0.34))"}
+{"expression": "((x1 * square(x2)) / 0.18)"}
+{"expression": "sin(x1 / (x2 + 0.16))"}
+{"expression": "sin(x1) + sqrt(0.41 * x2) * -1"}
+{"expression": "cos(x1) - (x2 * 0.53)"}
+{"expression": "((x1 * square(x2)) / 0.69)"}
+{"expression": "sqrt(cos(x1) / (x2 * 0.59))"}
+{"expression": "sqrt((x1 / x2) + square(0.8))"}
+{"expression": "sin(x1 + square(0.55 / x2)) / -1"}
+{"expression": "((x1 + x2) * 0.19)"}
+{"expression": "sqrt(x1 + (x2 * 0.62)) + (-1 * x1)"}
+{"expression": "sin(x1) + cos(0.85) + x2"}
+{"expression": "sqrt(x1 / (x2 + 0.31))"}
+{"expression": "sqrt(x1) - square(0.67) - x2"}
+{"expression": "sqrt(x1) + sin(x2 / 0.53) / -1"}
+{"expression": "sqrt(x1 + square(0.98)) + x2"}
+{"expression": "sin(x1) + 0.18"}
+{"expression": "cos(x1 + 0.7) + x2"}
+{"expression": "sin(x1) / square(0.34 * x2)"}
+{"expression": "sin(x1 + (x2 / 0.96))"}
+{"expression": "sin(x1) + sqrt(0.42) + x2"}
+{"expression": "cos(sqrt(x1) - 0.43) - x2"}
+{"expression": "((x1 * -1) - (0.99 * x2))"}
+{"expression": "sin(x1) + cos(0.28 * x2) + 1"}
+{"expression": "((x1 + -1) - (0.52 + x2))"}
+{"expression": "((x1 * -1) / (x2 - 0.02))"}
+{"expression": "sin(x1) * square(0.67) * x2"}
+{"expression": "sqrt(x1) / square(0.26 * x2)"}
+{"expression": "sin(x1) / (x2 + 0.55)"}
+{"expression": "sqrt(cos(x1) * (x2 / 0.69))"}
+{"expression": "sqrt(x1 + (x2 / 0.79))"}
+{"expression": "square(x1) / (x2 * 0.34)"}
+{"expression": "sqrt(cos(x1) / (x2 + 0.57))"}
+{"expression": "cos(x1) + sin(square(x2)) * 0.25"}
+{"expression": "sin(x1) * square(x2) / 0.96"}
+{"expression": "sin(x1) + square(0.66 * x2)"}
+{"expression": "sin(sqrt(x1 * square(0.67)))"}
+{"expression": "sin(x1) / cos(x2) - 0.19"}
+{"expression": "sqrt(x1) + x2 - 0.09"}
+{"expression": "((x1 / x2) + 0.33)"}
+{"expression": "sin(x1) * (x2 + -1) - 0.22"}
+{"expression": "cos(x1) + sqrt(0.15) + x2"}
+{"expression": "cos(-1 - sqrt(x2))"}
+{"expression": "sin(x1) + x2 - 0.93"}
+{"expression": "sqrt(x1) * (x2 - 0.28) / -1"}
+{"expression": "((x1 / x2) + square(0.95))"}
+{"expression": "sqrt(x1) / square(0.79 + x2)"}
+{"expression": "sqrt((x1 / square(x2)) * 0.98)"}
+{"expression": "sin(x1) - cos(square(x2)) + 0.49 * square(-1)"}
+{"expression": "sin(sqrt(x1) - square(0.75))"}
+{"expression": "0"}
+{"expression": "sin(x1) - (x2 / 0.01)"}
+{"expression": "sin(x1) - cos(0.13 * x2)"}
+{"expression": "((x1 + x2) * (1 / 0.08)) - (-1)"}
+{"expression": "sin(x1) + square(cos(x2)) * 0.28"}
+{"expression": "cos(x1 + x2) * -1 - 0.1"}

@@ -1,0 +1,500 @@
+{"expression": "protect_div(sin(x2), square(-1))"}
+{"expression": "protect_sqrt(cos(cos(x1)))"}
+{"expression": "square(1)"}
+{"expression": "cos(mul(cos(x2), protect_div(-1, 1)))"}
+{"expression": "square(sin(0.61))"}
+{"expression": "sin(1)"}
+{"expression": "cos(sin(protect_div(1, -1)))"}
+{"expression": "square(cos(mul(-1, 1)))"}
+{"expression": "cos(-1)"}
+{"expression": "mul(1, -1)"}
+{"expression": "neg(x2)"}
+{"expression": "square(neg(protect_div(0.14, -1)))"}
+{"expression": "sub(mul(-1, x2), 0.35)"}
+{"expression": "add(-1, x1)"}
+{"expression": "square(-1)"}
+{"expression": "square(mul(0.71, x2))"}
+{"expression": "neg(add(protect_div(0.79, 1), neg(x2)))"}
+{"expression": "cos(neg(1))"}
+{"expression": "square(0.12)"}
+{"expression": "sub(-1, protect_div(1, x2))"}
+{"expression": "mul(x1, 1)"}
+{"expression": "add(sub(x2, x2), protect_div(x2, -1))"}
+{"expression": "neg(sub(mul(1, x1), sub(x2, -1)))"}
+{"expression": "mul(square(x1), add(0.05, x2))"}
+{"expression": "add(cos(1), sin(x1))"}
+{"expression": "protect_div(sin(0.63), sub(x1, x2))"}
+{"expression": "sub(1, -1)"}
+{"expression": "square(1)"}
+{"expression": "protect_div(-1, -1)"}
+{"expression": "sin(x1)"}
+{"expression": "sub(0.9, x2)"}
+{"expression": "sin(protect_sqrt(protect_div(1, 0.99)))"}
+{"expression": "square(-1)"}
+{"expression": "protect_sqrt(add(square(x1), neg(x2)))"}
+{"expression": "sub(add(0.29, 0.01), neg(x2))"}
+{"expression": "square(-1)"}
+{"expression": "square(mul(neg(x2), protect_div(-1, -1)))"}
+{"expression": "sub(sin(0.44), protect_sqrt(x1))"}
+{"expression": "cos(cos(-1))"}
+{"expression": "sin(0.44)"}
+{"expression": "mul(add(0.93, 1), sin(0.53))"}
+{"expression": "sin(mul(square(x1), sin(x2)))"}
+{"expression": "neg(1)"}
+{"expression": "add(x1, protect_sqrt(protect_sqrt(-1)))"}
+{"expression": "add(square(1), 1)"}
+{"expression": "sin(-1)"}
+{"expression": "sin(0.11)"}
+{"expression": "cos(add(sin(0.92), x2))"}
+{"expression": "protect_sqrt(neg(x2))"}
+{"expression": "sub(-1, 1)"}
+{"expression": "mul(protect_div(sin(x2), add(x1, 0.43)), neg(add(0.44, 0.83)))"}
+{"expression": "cos(1)"}
+{"expression": "add(cos(cos(x1)), add(sin(1), neg(-1)))"}
+{"expression": "sub(square(add(-1, x1)), x2)"}
+{"expression": "cos(1)"}
+{"expression": "protect_sqrt(square(1))"}
+{"expression": "mul(mul(neg(x2), square(0.96)), add(add(x1, 0.29), protect_sqrt(-1)))"}
+{"expression": "add(x2, square(x2))"}
+{"expression": "neg(square(1))"}
+{"expression": "neg(cos(-1))"}
+{"expression": "protect_div(-1, -1)"}
+{"expression": "add(protect_sqrt(sub(0.3, x1)), protect_sqrt(square(0.8)))"}
+{"expression": "mul(-1, -1)"}
+{"expression": "add(x2, -1)"}
+{"expression": "protect_div(sub(-1, x2), protect_sqrt(x1))"}
+{"expression": "neg(add(protect_sqrt(1), add(1, x2)))"}
+{"expression": "protect_div(mul(x2, 1), protect_sqrt(x2))"}
+{"expression": "neg(mul(mul(1, x1), protect_sqrt(x2)))"}
+{"expression": "neg(1)"}
+{"expression": "sin(square(-1))"}
+{"expression": "add(x1, -1)"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "protect_div(x1, x1)"}
+{"expression": "mul(x1, 0.79)"}
+{"expression": "square(neg(0.33))"}
+{"expression": "mul(neg(x2), neg(-1))"}
+{"expression": "protect_sqrt(protect_div(x2, x1))"}
+{"expression": "add(0.53, sin(protect_div(x2, x2)))"}
+{"expression": "sub(x2, x2)"}
+{"expression": "neg(neg(-1))"}
+{"expression": "protect_sqrt(x2)"}
+{"expression": "protect_div(1, -1)"}
+{"expression": "protect_sqrt(cos(x2))"}
+{"expression": "mul(mul(1, 0.27), mul(x2, x2))"}
+{"expression": "mul(sub(x2, square(-1)), add(protect_sqrt(0.72), mul(x1, 1)))"}
+{"expression": "protect_div(neg(x2), sin(1))"}
+{"expression": "cos(x2)"}
+{"expression": "square(x1)"}
+{"expression": "mul(1, 1)"}
+{"expression": "protect_div(-1, x2)"}
+{"expression": "sub(sub(-1, -1), -1)"}
+{"expression": "cos(neg(-1))"}
+{"expression": "sin(x1)"}
+{"expression": "neg(cos(1))"}
+{"expression": "add(sub(cos(1), x2), sub(1, neg(0.6)))"}
+{"expression": "sin(-1)"}
+{"expression": "mul(sub(x2, 0.65), sub(-1, x2))"}
+{"expression": "protect_sqrt(1)"}
+{"expression": "neg(neg(protect_div(x2, -1)))"}
+{"expression": "protect_div(square(add(1, -1)), square(sin(x2)))"}
+{"expression": "protect_div(0.61, x1)"}
+{"expression": "protect_sqrt(square(-1))"}
+{"expression": "neg(cos(x2))"}
+{"expression": "cos(1)"}
+{"expression": "neg(-1)"}
+{"expression": "add(0.56, sub(protect_sqrt(x1), sub(-1, 0.69)))"}
+{"expression": "neg(0.36)"}
+{"expression": "add(cos(x1), protect_sqrt(add(x1, 0.84)))"}
+{"expression": "protect_sqrt(add(1, 0.48))"}
+{"expression": "sub(1, x2)"}
+{"expression": "cos(protect_div(cos(-1), protect_sqrt(x1)))"}
+{"expression": "cos(1)"}
+{"expression": "protect_div(1, 0.84)"}
+{"expression": "sub(x2, -1)"}
+{"expression": "protect_div(sub(square(x1), -1), cos(protect_sqrt(-1)))"}
+{"expression": "square(1)"}
+{"expression": "neg(protect_sqrt(x1))"}
+{"expression": "square(square(add(0.96, 1)))"}
+{"expression": "neg(0.76)"}
+{"expression": "mul(x1, x2)"}
+{"expression": "neg(x1)"}
+{"expression": "sub(square(0.07), -1)"}
+{"expression": "sub(1, 1)"}
+{"expression": "sub(1, -1)"}
+{"expression": "square(sin(sub(-1, x2)))"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "square(mul(-1, add(0.82, x1)))"}
+{"expression": "protect_sqrt(mul(square(x2), sin(1)))"}
+{"expression": "mul(x2, sin(0.66))"}
+{"expression": "mul(sub(protect_div(x1, x2), sin(1)), protect_div(cos(1), sin(x1)))"}
+{"expression": "sub(x1, -1)"}
+{"expression": "protect_div(protect_div(sin(1), mul(x2, 1)), sub(mul(-1, 0.47), sub(x2, x1)))"}
+{"expression": "add(sin(x1), cos(x2))"}
+{"expression": "protect_div(-1, 0.93)"}
+{"expression": "sin(protect_div(neg(-1), protect_div(-1, x2)))"}
+{"expression": "neg(square(x2))"}
+{"expression": "protect_div(square(protect_div(1, -1)), protect_sqrt(protect_div(x1, x1)))"}
+{"expression": "protect_sqrt(protect_sqrt(0.42))"}
+{"expression": "sub(-1, -1)"}
+{"expression": "sin(mul(x1, 1))"}
+{"expression": "mul(x1, 0.01)"}
+{"expression": "sub(protect_sqrt(cos(0.89)), mul(protect_sqrt(1), add(-1, -1)))"}
+{"expression": "cos(square(0.52))"}
+{"expression": "neg(square(x2))"}
+{"expression": "mul(neg(x1), protect_div(x2, -1))"}
+{"expression": "square(square(1))"}
+{"expression": "sin(x1)"}
+{"expression": "protect_div(cos(x2), x1)"}
+{"expression": "sub(x1, 1)"}
+{"expression": "add(add(mul(x1, -1), x1), sin(1))"}
+{"expression": "mul(cos(protect_div(x2, -1)), cos(cos(x1)))"}
+{"expression": "sub(x2, x2)"}
+{"expression": "square(add(1, 1))"}
+{"expression": "add(neg(x1), neg(cos(0.14)))"}
+{"expression": "neg(0.74)"}
+{"expression": "cos(mul(x1, 0.35))"}
+{"expression": "protect_div(neg(sub(-1, 1)), cos(square(0.45)))"}
+{"expression": "square(-1)"}
+{"expression": "sin(x2)"}
+{"expression": "sub(sin(x1), sub(x1, x1))"}
+{"expression": "neg(cos(x2))"}
+{"expression": "protect_div(protect_div(add(0.02, 1), protect_sqrt(x1)), add(sub(-1, x2), sin(0.97)))"}
+{"expression": "cos(1)"}
+{"expression": "mul(-1, 1)"}
+{"expression": "neg(0.01)"}
+{"expression": "protect_div(x1, sub(add(0.02, x1), mul(x1, 0.28)))"}
+{"expression": "neg(square(x1))"}
+{"expression": "protect_sqrt(protect_sqrt(0.35))"}
+{"expression": "protect_div(x2, x2)"}
+{"expression": "protect_div(sub(sub(0.19, x1), sin(-1)), sub(sin(x2), add(-1, 0.26)))"}
+{"expression": "neg(x2)"}
+{"expression": "sin(0.05)"}
+{"expression": "square(1)"}
+{"expression": "sin(neg(sin(-1)))"}
+{"expression": "square(-1)"}
+{"expression": "sub(square(1), cos(0.98))"}
+{"expression": "add(-1, 0.62)"}
+{"expression": "protect_sqrt(square(protect_sqrt(x2)))"}
+{"expression": "protect_sqrt(protect_sqrt(protect_div(-1, 0.02)))"}
+{"expression": "cos(-1)"}
+{"expression": "neg(add(cos(x2), 1))"}
+{"expression": "sub(x2, mul(sin(1), protect_sqrt(-1)))"}
+{"expression": "protect_sqrt(protect_sqrt(1))"}
+{"expression": "add(sub(sub(x1, 0.23), protect_div(x2, x1)), cos(sin(-1)))"}
+{"expression": "square(mul(mul(x2, 1), sub(1, 0.98)))"}
+{"expression": "protect_div(add(cos(x2), protect_sqrt(x2)), sub(add(1, 0.06), sub(1, x1)))"}
+{"expression": "protect_sqrt(0.38)"}
+{"expression": "sub(mul(neg(1), neg(0.42)), sub(cos(x1), x2))"}
+{"expression": "mul(0.98, protect_sqrt(sin(x2)))"}
+{"expression": "mul(mul(-1, 0.52), sin(x2))"}
+{"expression": "cos(0.54)"}
+{"expression": "neg(x1)"}
+{"expression": "protect_div(x2, 0.8)"}
+{"expression": "square(0.97)"}
+{"expression": "sin(sin(neg(1)))"}
+{"expression": "protect_div(square(0.51), cos(1))"}
+{"expression": "neg(protect_div(x2, 1))"}
+{"expression": "protect_div(x2, square(x2))"}
+{"expression": "add(add(square(1), cos(x1)), neg(cos(-1)))"}
+{"expression": "mul(sin(neg(x1)), cos(cos(x2)))"}
+{"expression": "protect_div(mul(neg(x1), protect_sqrt(x2)), neg(neg(x1)))"}
+{"expression": "add(0.49, x2)"}
+{"expression": "square(square(add(1, x1)))"}
+{"expression": "neg(neg(x2))"}
+{"expression": "protect_div(protect_div(1, x2), sub(1, -1))"}
+{"expression": "sub(1, x1)"}
+{"expression": "protect_div(1, x2)"}
+{"expression": "add(x2, 1)"}
+{"expression": "mul(sub(x2, -1), protect_div(-1, 1))"}
+{"expression": "neg(protect_sqrt(protect_div(x2, 0.2)))"}
+{"expression": "sub(add(cos(x2), square(0.49)), add(sin(-1), protect_div(1, -1)))"}
+{"expression": "square(neg(neg(0.95)))"}
+{"expression": "add(add(sub(1, 0.89), neg(-1)), neg(cos(-1)))"}
+{"expression": "protect_div(-1, protect_div(sin(x1), mul(1, x1)))"}
+{"expression": "mul(-1, x1)"}
+{"expression": "neg(cos(-1))"}
+{"expression": "square(x1)"}
+{"expression": "protect_sqrt(protect_sqrt(1))"}
+{"expression": "neg(sub(square(0.78), protect_div(1, x1)))"}
+{"expression": "sin(cos(1))"}
+{"expression": "sin(add(sub(x2, x1), protect_sqrt(x2)))"}
+{"expression": "square(square(mul(-1, 0.32)))"}
+{"expression": "add(protect_sqrt(-1), sub(x1, 0.15))"}
+{"expression": "mul(-1, 1)"}
+{"expression": "cos(sin(-1))"}
+{"expression": "cos(sin(mul(-1, 1)))"}
+{"expression": "neg(protect_sqrt(mul(0.67, 1)))"}
+{"expression": "sub(protect_div(neg(x2), add(x1, x1)), square(neg(x2)))"}
+{"expression": "neg(square(0.33))"}
+{"expression": "square(neg(protect_sqrt(-1)))"}
+{"expression": "protect_div(protect_sqrt(0.87), cos(-1))"}
+{"expression": "sub(0.26, 1)"}
+{"expression": "mul(neg(cos(1)), protect_div(mul(1, x2), protect_div(x1, -1)))"}
+{"expression": "protect_div(add(x2, x2), sub(x2, x2))"}
+{"expression": "square(x1)"}
+{"expression": "protect_div(mul(add(x2, 1), sin(1)), protect_div(protect_div(1, 1), protect_sqrt(-1)))"}
+{"expression": "sin(x1)"}
+{"expression": "sin(-1)"}
+{"expression": "sin(cos(square(x1)))"}
+{"expression": "mul(x2, x1)"}
+{"expression": "sin(protect_sqrt(cos(-1)))"}
+{"expression": "protect_div(protect_div(protect_sqrt(-1), square(x1)), square(sub(1, 0.86)))"}
+{"expression": "mul(sin(add(-1, -1)), 1)"}
+{"expression": "protect_sqrt(square(mul(-1, x2)))"}
+{"expression": "cos(x2)"}
+{"expression": "add(x1, x1)"}
+{"expression": "sub(cos(square(x1)), sin(mul(x2, 0.25)))"}
+{"expression": "square(x1)"}
+{"expression": "mul(0.65, 1)"}
+{"expression": "protect_sqrt(sin(neg(1)))"}
+{"expression": "sin(-1)"}
+{"expression": "cos(square(-1))"}
+{"expression": "cos(protect_div(neg(x2), sub(1, 1)))"}
+{"expression": "sin(x1)"}
+{"expression": "square(sub(add(x1, x1), square(-1)))"}
+{"expression": "mul(add(protect_div(1, x1), protect_div(0.42, -1)), sub(neg(x2), mul(x1, 1)))"}
+{"expression": "mul(protect_sqrt(sin(0.06)), cos(cos(1)))"}
+{"expression": "add(0.61, sin(cos(1)))"}
+{"expression": "protect_div(1, protect_sqrt(cos(1)))"}
+{"expression": "mul(sub(x2, -1), protect_div(x2, 0.25))"}
+{"expression": "protect_sqrt(sin(-1))"}
+{"expression": "cos(x2)"}
+{"expression": "add(cos(mul(1, 1)), neg(protect_sqrt(-1)))"}
+{"expression": "sin(1)"}
+{"expression": "cos(protect_sqrt(cos(x2)))"}
+{"expression": "sub(x2, x2)"}
+{"expression": "square(-1)"}
+{"expression": "cos(sub(protect_div(x1, -1), add(0.62, x2)))"}
+{"expression": "square(neg(x2))"}
+{"expression": "mul(x1, 0.12)"}
+{"expression": "add(x2, x1)"}
+{"expression": "protect_div(1, -1)"}
+{"expression": "protect_sqrt(-1)"}
+{"expression": "cos(add(add(-1, x1), mul(x1, x2)))"}
+{"expression": "add(protect_div(protect_sqrt(x2), square(x2)), sin(sub(x2, 1)))"}
+{"expression": "square(x1)"}
+{"expression": "sin(square(add(1, x2)))"}
+{"expression": "cos(add(x1, 1))"}
+{"expression": "protect_div(1, x1)"}
+{"expression": "mul(x1, 1)"}
+{"expression": "sin(square(square(1)))"}
+{"expression": "protect_sqrt(square(sin(-1)))"}
+{"expression": "mul(sin(square(1)), sub(protect_sqrt(1), protect_sqrt(1)))"}
+{"expression": "neg(-1)"}
+{"expression": "add(-1, protect_div(-1, -1))"}
+{"expression": "neg(-1)"}
+{"expression": "mul(sin(0.34), protect_sqrt(x2))"}
+{"expression": "sub(protect_sqrt(sub(x1, -1)), sin(protect_sqrt(x2)))"}
+{"expression": "add(x2, 1)"}
+{"expression": "add(1, x1)"}
+{"expression": "sin(sin(mul(1, 1)))"}
+{"expression": "sub(sub(x2, -1), protect_sqrt(x1))"}
+{"expression": "sin(mul(x1, -1))"}
+{"expression": "neg(x1)"}
+{"expression": "sub(protect_div(x2, 0.11), -1)"}
+{"expression": "add(x2, -1)"}
+{"expression": "protect_sqrt(cos(sin(1)))"}
+{"expression": "cos(mul(sub(1, -1), cos(0.91)))"}
+{"expression": "add(0.84, 1)"}
+{"expression": "protect_div(sin(0.62), mul(0.95, 1))"}
+{"expression": "sub(mul(0.61, 1), cos(-1))"}
+{"expression": "sin(add(1, -1))"}
+{"expression": "protect_div(-1, 0.97)"}
+{"expression": "protect_div(mul(x2, x2), sub(0.11, x1))"}
+{"expression": "protect_div(x2, x2)"}
+{"expression": "mul(-1, -1)"}
+{"expression": "cos(sin(-1))"}
+{"expression": "sub(x1, 0.83)"}
+{"expression": "mul(protect_sqrt(-1), mul(0.64, 1))"}
+{"expression": "sub(protect_sqrt(x1), protect_div(1, 0.4))"}
+{"expression": "sub(x1, 1)"}
+{"expression": "protect_sqrt(sub(square(1), sub(-1, x2)))"}
+{"expression": "add(cos(square(0.3)), protect_sqrt(add(0.0, -1)))"}
+{"expression": "mul(-1, x1)"}
+{"expression": "protect_div(x1, add(0.15, neg(-1)))"}
+{"expression": "protect_sqrt(neg(-1))"}
+{"expression": "add(sub(-1, 1), add(-1, x2))"}
+{"expression": "protect_div(protect_div(x2, 0.82), add(0.76, -1))"}
+{"expression": "mul(add(x1, 1), sub(1, cos(1)))"}
+{"expression": "neg(mul(-1, x2))"}
+{"expression": "add(x2, x2)"}
+{"expression": "neg(sub(cos(x1), mul(x1, 0.02)))"}
+{"expression": "sin(mul(x1, 1))"}
+{"expression": "sub(sub(sub(1, -1), sub(x2, 0.58)), neg(square(0.77)))"}
+{"expression": "square(x1)"}
+{"expression": "square(1)"}
+{"expression": "neg(0.67)"}
+{"expression": "sub(sin(-1), protect_sqrt(1))"}
+{"expression": "protect_sqrt(sin(sub(0.58, x1)))"}
+{"expression": "neg(neg(protect_div(x1, 0.72)))"}
+{"expression": "protect_div(protect_sqrt(sin(-1)), sin(sin(x2)))"}
+{"expression": "square(x2)"}
+{"expression": "mul(square(-1), mul(x1, 0.01))"}
+{"expression": "cos(protect_div(-1, 1))"}
+{"expression": "add(sub(x1, x2), square(x2))"}
+{"expression": "neg(sub(-1, 1))"}
+{"expression": "cos(protect_div(mul(-1, 1), sin(-1)))"}
+{"expression": "neg(neg(protect_sqrt(0.22)))"}
+{"expression": "add(protect_div(-1, neg(x2)), protect_sqrt(add(x2, x1)))"}
+{"expression": "square(1)"}
+{"expression": "protect_sqrt(square(cos(x2)))"}
+{"expression": "protect_sqrt(0.6)"}
+{"expression": "protect_div(1, x1)"}
+{"expression": "sin(0.96)"}
+{"expression": "cos(square(cos(0.26)))"}
+{"expression": "protect_div(-1, 0.35)"}
+{"expression": "protect_div(sub(-1, -1), sub(square(-1), protect_sqrt(x2)))"}
+{"expression": "add(cos(sub(0.01, 1)), sin(sub(x2, 0.9)))"}
+{"expression": "sin(add(protect_div(-1, -1), square(1)))"}
+{"expression": "mul(x2, x2)"}
+{"expression": "cos(-1)"}
+{"expression": "square(mul(-1, x1))"}
+{"expression": "neg(-1)"}
+{"expression": "cos(sub(sin(x2), mul(1, x2)))"}
+{"expression": "sin(x1)"}
+{"expression": "sin(square(-1))"}
+{"expression": "protect_sqrt(0.11)"}
+{"expression": "square(add(0.37, 0.41))"}
+{"expression": "protect_sqrt(protect_sqrt(x2))"}
+{"expression": "square(protect_div(sub(1, -1), cos(x2)))"}
+{"expression": "protect_sqrt(mul(x1, 0.98))"}
+{"expression": "protect_sqrt(1)"}
+{"expression": "cos(protect_sqrt(0.79))"}
+{"expression": "square(sin(x1))"}
+{"expression": "sub(-1, -1)"}
+{"expression": "square(x2)"}
+{"expression": "sub(protect_sqrt(square(-1)), mul(protect_div(1, 0.87), protect_sqrt(x2)))"}
+{"expression": "add(square(0.56), sub(x1, 1))"}
+{"expression": "protect_sqrt(square(0.72))"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "protect_sqrt(x2)"}
+{"expression": "add(sub(protect_sqrt(-1), add(x1, -1)), sub(protect_div(x1, 0.5), mul(0.13, x1)))"}
+{"expression": "mul(0.77, 1)"}
+{"expression": "protect_sqrt(neg(x1))"}
+{"expression": "neg(1)"}
+{"expression": "sub(0.79, 0.34)"}
+{"expression": "cos(x2)"}
+{"expression": "sub(-1, -1)"}
+{"expression": "add(cos(0.41), neg(mul(-1, -1)))"}
+{"expression": "protect_div(x2, x2)"}
+{"expression": "neg(1)"}
+{"expression": "add(-1, x1)"}
+{"expression": "cos(add(mul(0.89, 1), mul(1, x2)))"}
+{"expression": "mul(0.13, 0.27)"}
+{"expression": "protect_sqrt(neg(x2))"}
+{"expression": "cos(neg(x1))"}
+{"expression": "add(x2, x2)"}
+{"expression": "mul(mul(protect_div(x2, 1), -1), -1)"}
+{"expression": "protect_div(protect_sqrt(mul(x2, x1)), x2)"}
+{"expression": "mul(neg(cos(0.94)), mul(add(0.49, -1), mul(1, 0.86)))"}
+{"expression": "cos(-1)"}
+{"expression": "cos(add(mul(x1, -1), neg(1)))"}
+{"expression": "add(1, square(0.29))"}
+{"expression": "neg(sub(-1, -1))"}
+{"expression": "mul(square(1.0), neg(x2))"}
+{"expression": "sin(cos(1))"}
+{"expression": "add(mul(square(x1), mul(x2, 1)), cos(cos(-1)))"}
+{"expression": "square(1)"}
+{"expression": "cos(sin(-1))"}
+{"expression": "mul(square(1), 0.12)"}
+{"expression": "cos(square(protect_div(x2, -1)))"}
+{"expression": "sin(0.06)"}
+{"expression": "mul(protect_div(sub(0.1, -1), protect_div(-1, 0.9)), sin(protect_sqrt(0.66)))"}
+{"expression": "add(-1, 0.29)"}
+{"expression": "square(protect_div(-1, 0.28))"}
+{"expression": "protect_div(-1, x2)"}
+{"expression": "add(x2, -1)"}
+{"expression": "protect_sqrt(-1)"}
+{"expression": "sub(sub(protect_div(x1, x1), 1), sub(-1, add(x1, -1)))"}
+{"expression": "sub(0.58, 1)"}
+{"expression": "sub(0.78, x2)"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "sub(x2, square(mul(x1, -1)))"}
+{"expression": "mul(x2, 1.0)"}
+{"expression": "add(1, -1)"}
+{"expression": "protect_sqrt(x1)"}
+{"expression": "sin(add(-1, x2))"}
+{"expression": "add(neg(x1), protect_div(0.12, 1))"}
+{"expression": "mul(square(protect_sqrt(0.98)), protect_sqrt(sub(-1, x2)))"}
+{"expression": "cos(1)"}
+{"expression": "neg(mul(-1, 0.48))"}
+{"expression": "square(protect_div(-1, 0.24))"}
+{"expression": "protect_sqrt(1)"}
+{"expression": "mul(0.17, neg(protect_sqrt(-1)))"}
+{"expression": "cos(mul(x2, 0.47))"}
+{"expression": "sin(mul(cos(0.08), sin(x2)))"}
+{"expression": "sin(1)"}
+{"expression": "sin(x2)"}
+{"expression": "protect_div(1, 0.99)"}
+{"expression": "sin(sub(sin(0.8), add(x1, -1)))"}
+{"expression": "protect_sqrt(neg(mul(-1, x1)))"}
+{"expression": "mul(1, 0.74)"}
+{"expression": "add(protect_sqrt(-1), mul(0.58, 0.94))"}
+{"expression": "protect_div(sin(0.15), mul(x2, 0.35))"}
+{"expression": "protect_sqrt(sin(0.46))"}
+{"expression": "add(mul(0.48, x1), neg(x1))"}
+{"expression": "square(protect_div(0.37, 0.58))"}
+{"expression": "neg(sin(add(-1, 1)))"}
+{"expression": "neg(x2)"}
+{"expression": "square(sin(1))"}
+{"expression": "square(sin(sub(1, 1)))"}
+{"expression": "sub(protect_div(1, 1), 1)"}
+{"expression": "protect_div(-1, square(1))"}
+{"expression": "cos(1)"}
+{"expression": "cos(protect_div(sin(1), protect_div(0.41, x2)))"}
+{"expression": "sub(neg(x2), protect_sqrt(1))"}
+{"expression": "protect_sqrt(1)"}
+{"expression": "sin(0.09)"}
+{"expression": "mul(x1, square(-1))"}
+{"expression": "protect_div(square(1), protect_sqrt(x2))"}
+{"expression": "sub(sub(sin(x2), 1), square(protect_div(x2, 1)))"}
+{"expression": "square(x2)"}
+{"expression": "add(-1, 0.35)"}
+{"expression": "protect_div(square(square(-1)), square(protect_sqrt(1)))"}
+{"expression": "sub(protect_sqrt(-1), mul(0.35, 1))"}
+{"expression": "sin(-1)"}
+{"expression": "protect_div(0.92, x1)"}
+{"expression": "protect_div(x1, x1)"}
+{"expression": "square(sub(mul(0.74, 0.3), sin(x2)))"}
+{"expression": "mul(protect_div(-1, 1), x1)"}
+{"expression": "sub(x1, x1)"}
+{"expression": "add(neg(protect_div(-1, 0.21)), protect_sqrt(cos(x2)))"}
+{"expression": "cos(square(protect_sqrt(x1)))"}
+{"expression": "add(x2, x2)"}
+{"expression": "cos(protect_sqrt(sin(-1)))"}
+{"expression": "sin(neg(square(x1)))"}
+{"expression": "sub(-1, x2)"}
+{"expression": "square(add(1, x2))"}
+{"expression": "protect_sqrt(cos(1))"}
+{"expression": "sub(-1, x2)"}
+{"expression": "add(-1, cos(x1))"}
+{"expression": "sin(x1)"}
+{"expression": "sin(cos(-1))"}
+{"expression": "protect_div(square(x1), sub(x1, x2))"}
+{"expression": "protect_div(sin(add(x2, 0.41)), square(add(x2, 1)))"}
+{"expression": "cos(protect_div(0.1, x2))"}
+{"expression": "mul(sin(sin(x2)), protect_div(mul(0.25, -1), sin(0.67)))"}
+{"expression": "protect_div(x2, 0.62)"}
+{"expression": "sin(square(mul(0.56, 1)))"}
+{"expression": "protect_sqrt(cos(x2))"}
+{"expression": "cos(x1)"}
+{"expression": "protect_sqrt(0.45)"}
+{"expression": "neg(mul(-1, x1))"}
+{"expression": "square(protect_sqrt(sin(-1)))"}
+{"expression": "mul(1, x2)"}
+{"expression": "square(protect_div(sin(1), neg(1)))"}
+{"expression": "add(protect_div(1, x1), cos(x2))"}
+{"expression": "mul(add(neg(x2), cos(-1)), protect_div(sub(0.57, -1), add(0.89, 1)))"}
+{"expression": "add(sub(x1, 0.75), neg(0.33))"}
+{"expression": "mul(sub(neg(x1), x2), x1)"}
+{"expression": "cos(x2)"}
+{"expression": "neg(0.97)"}
+{"expression": "neg(1)"}
+{"expression": "sin(neg(-1))"}
+{"expression": "protect_sqrt(x2)"}
+{"expression": "add(mul(1, x2), cos(-1))"}
+{"expression": "sin(1)"}
+{"expression": "protect_div(1, x2)"}
+{"expression": "sub(x2, 1)"}

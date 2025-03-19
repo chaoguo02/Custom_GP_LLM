@@ -72,20 +72,8 @@ def load_all_expressions(jsonl_file, pset=None):
     print(f"Loaded {len(parsed_trees)} expressions into parsed_trees.")
     return parsed_trees
 
-# def initIndividual(parsed_trees):
-#     return creator.Individual(random.choice(parsed_trees))
-
-# 新的初始化个体测试
-def individual_generator(parsed_trees):
-    """ 生成器：依次返回 `parsed_trees` 中的 `PrimitiveTree`，当遍历完毕后，重新开始。 """
-    while True:
-        for tree in parsed_trees:
-            yield creator.Individual(tree)
-
-def get_individual_generator(parsed_trees):
-    """ 返回一个 `individual_iter` 迭代器实例 """
-    return individual_generator(parsed_trees)
-
+def initIndividual(parsed_trees):
+    return creator.Individual(random.choice(parsed_trees))
 
 ## 🔥🔥🔥两个重要的函数
 def cxOnePointListOfTrees(ind1, ind2, parsed_trees, llm_interface=None, pset=None):
@@ -102,13 +90,16 @@ def cxOnePointListOfTrees(ind1, ind2, parsed_trees, llm_interface=None, pset=Non
     expr2 = tree_to_expression(ind2_tree)
     print(f"Converted Expressions: expr1: {expr1}, expr2: {expr2}")
 
+    tree_expressions = []
+    tree_expressions.append(str(ind1_tree))
+    tree_expressions.append(str(ind2_tree))
     # **调用 LLM 交叉**
-    new_expressions = llm_crossover_expressions(llm_interface, [expr1, expr2])
+    new_expressions = llm_crossover_expressions(llm_interface, tree_expressions)
 
     # **转换回 GP 结构**
     try:
-        new_tree1 = gp.PrimitiveTree.from_string(expression_to_tree(new_expressions[0]), pset)
-        new_tree2 = gp.PrimitiveTree.from_string(expression_to_tree(new_expressions[1]), pset)
+        new_tree1 = gp.PrimitiveTree(new_expressions[0])
+        new_tree2 = gp.PrimitiveTree(new_expressions[1])
     except Exception as e:
         print(f"交叉因为异常返回父代")
         return ind1, ind2
@@ -133,10 +124,9 @@ def mutUniformListOfTrees(ind, pset, parsed_trees=None, llm_interface=None):
     HEIGHT_LIMIT = 6
     ind_tree = gp.PrimitiveTree(ind) if isinstance(ind, creator.Individual) else ind
     print(f"Before Mutation: ind Tree: {ind_tree}")
+    expr1 = tree_to_expression(ind_tree)
+    new_expression = llm_mutated_expressions(llm_interface, expr1)
     try:
-        expr1 = tree_to_expression(ind_tree)
-        new_expression = llm_mutated_expressions(llm_interface, expr1)
-        new_expression = new_expression.replace("**", "square")
         new_tree1 = gp.PrimitiveTree.from_string(expression_to_tree(new_expression), pset)
 
     except Exception as e:
@@ -184,18 +174,13 @@ def create_llm_toolbox(init_method="gp", parsed_trees=None, pset=None):
 
     # 创建Toolbox
     toolbox = base.Toolbox()
-
-    individual_iter =  get_individual_generator(parsed_trees)
     if init_method == "gp":
-        # toolbox.register("expr", gp.genHalfAndHalf, pset=pset, min_=1, max_=3)
-        # toolbox.register("individual", tools.initIterate, creator.Individual, toolbox.expr)
-        if parsed_trees is None or len(parsed_trees) == 0:
-            raise ValueError("❌ LLM 模式需要提供 parsed_trees 作为初始化表达式！")
-        toolbox.register("individual", lambda: next(individual_iter))
+        toolbox.register("expr", gp.genHalfAndHalf, pset=pset, min_=1, max_=3)
+        toolbox.register("individual", tools.initIterate, creator.Individual, toolbox.expr)
     elif init_method == "llm":
         if parsed_trees is None or len(parsed_trees) == 0:
             raise ValueError("❌ LLM 模式需要提供 parsed_trees 作为初始化表达式！")
-        toolbox.register("individual", lambda: next(individual_iter))
+        toolbox.register("individual", initIndividual, parsed_trees)
 
     toolbox.register("population", tools.initRepeat, list, toolbox.individual)
     toolbox.register('compile', gp.compile, pset=pset)
